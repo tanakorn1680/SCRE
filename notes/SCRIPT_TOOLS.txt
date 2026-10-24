@@ -1,0 +1,32 @@
+SCRIPT_TOOLS — สคริปต์ผู้ใช้ + probe + เครื่องมือ | อ่านเฉพาะหัวข้อที่ต้องใช้ (grep "## ")
+
+## สคริปต์ผู้ใช้ SCBI_MayorScript_v11.lua (490KB, 11,682 บรรทัด; หัวไฟล์ยังเขียน v6.3)
+- ห้าม view ทั้งไฟล์ ให้ grep ชื่อฟังก์ชันแล้วอ่านเป็นช่วง ; ไฟล์มีอีโมจิ/UTF-8: ใน bash ใช้ python decode (อย่าใช้ cut/head ตัดกลางตัวอักษร)
+- ข้อจำกัด Lua 5.1/LuaJ: local ระดับบนสุดได้ 200 ต่อฟังก์ชัน ตอนนี้ 176 ตัว -> ถ้าเพิ่มฟังก์ชันใหม่ ซ่อนไว้ในฟังก์ชันเดิมหรือรวมเป็นตาราง ห้ามเพิ่ม local ระดับบนสุดโดยไม่จำเป็น
+- บรรทัดฟังก์ชันใน v11: findXpTargetsFromRegistry 397 | runXp 467 | menuProductionQuantity 118 | findProductQuantityAddresses 239 | runMetalX 305 | SHARED_ANCHORS 3084 | SLOT_IDENTITY 3100 | findSharedSlots 3114 | findSharedSlotsRegistry 3329 | autoSetFactoryTime1Min 4462 | autoProductQuantityMenu 4523 | runChangProductionTimeLegacy 4705 | loadProdRegistry 4860 (cache global prodRegistryCache) | runChangProductionTime 4991 | MORE_ITEM_GROUPS 6378 | valuePointsToRecord 9286 | findMoreItemValues 9311 | massTransitEditQuantityAndConfirm 9610 | runProductMoreItem 10562
+- Product Quantity ถูกใช้ร่วมกับ War Card Level / Booster / Mass Transit / Mayor Pass ผ่าน productionAddresses (+ isProductionQuantitySaved) -> แก้วิธีหาที่อยู่ต้องไม่ทำให้ productionAddresses เปลี่ยนรูป (ตาราง {address, flags=TYPE_DWORD} ยาว <=11)
+- ค่าคงที่ต้นไฟล์: SEARCH_RANGES = C_ALLOC|ANONYMOUS (บรรทัด 31) ; MAX_HITS 2000 ; TYPE_DWORD
+- หลักการแก้สคริปต์ผู้ใช้: เพิ่มวิธีใหม่ไว้ก่อน มี fallback วิธีเดิม ไม่แตะโค้ดเดิมข้างใน ; เมนูที่เพิ่มต้องใช้งานสะดวก ; ผู้ใช้ชอบ UI สะอาด ไอคอน SVG มากกว่าอีโมจิ (เฉพาะงานเว็บ ไม่เกี่ยวสคริปต์ GG นี้)
+
+## Probe ทั้งหมดใน gg/ (อ่านอย่างเดียว ไม่แก้ค่าในเกม) | สถานะ | ไฟล์ผล
+- offset_check.lua | ยืนยันแล้ว 6/6 | -
+- registry_walk3.lua (v3) | ยืนยันแล้ว | registry_prod.txt (6KB อ่านได้ทั้งไฟล์)
+- registry_idsfix.lua (v2 ที่แก้บั๊ก signed ; registry_ids.lua = เก่ามีบั๊ก ห้ามใช้) | ยืนยันแล้ว | registry_ids2.txt 74KB (grep ตามชื่อคีย์)
+- valuemap_probe2.lua (valuemap_probe22.lua = สำเนาเหมือนกันทุกไบต์) / valuemap_probe3.lua | ยืนยันแล้ว | valuemap_probe2.txt 551KB, valuemap_probe3 (ผลที่ผู้ใช้ส่งในอีกแชท สรุปอยู่ใน FACTS) — ห้ามอ่านทั้งไฟล์
+- slot_probe.lua (v1 ใน zip) / slot_probe2.lua (v2) | ยืนยันแล้ว (ผล v2) | slot_probe2.txt 18KB
+- struct_probe.lua | ผลรอบแรกจำกัด (2 ที่อยู่ร่วม) | -
+- inventory_probe.lua, player_scan.lua | ไม่มีผลทดสอบ ไม่ใช่งานหลักตอนนี้ | -
+- qty_probe.lua | v2 รันแล้ว (ข้อสรุป: "1" = ฟิลด์โหนดแมป ไอดี->เรคอร์ด ไม่ยืนยันว่าเป็นจำนวนผลิต ดู HANDOFF) | gg/qty_probe.txt (ผล v2 15KB)
+- qty_probe3.lua | ส่งแล้ว ผ่าน syntax+mock (Lua 5.4) ยังไม่ได้รันบนเครื่องจริง (ดัมพ์เรคอร์ด *Prod 14 ตัวเป็นตารางเดียว + ตามตัวชี้ WoodProd) | gg/qty_probe3.txt (รอผล)
+- ไฟล์ข้อมูลใหญ่: registry_walk.txt 1.3MB (ถอนแล้ว ไม่ครบ) | valuemap_probe.txt 330KB (ผลรอบแรก ล้าสมัย) | registry_ids.txt 43KB (ถอน)
+
+## วิธีตรวจ Lua ในที่ทำงาน (ถ้าผู้ใช้ไม่สั่งงดทดสอบ)
+- เครื่องไม่มี lua/luac แต่มี liblua5.4.so.0 -> เรียกผ่าน Python ctypes (luaL_newstate, luaL_openlibs, luaL_loadstring, lua_pcallk) ; ตรวจ syntax โดยห่อเป็น local function ; ทดสอบตรรกะด้วย mock gg + หน่วยความจำจำลอง (Lua 5.4 ต่างจาก LuaJ เล็กน้อย)
+- ผู้ใช้สั่ง "ไม่ต้องทดสอบเกินจำเป็น" -> ทำเฉพาะเมื่อความเสี่ยงสูง และบอกชัดว่าอะไรยังไม่ได้ทดสอบ ; ผลที่ได้จากหน่วยความจำจำลองไม่ใช่หลักฐานของโครงสร้างเกมจริง
+
+## Ghidra / GitHub Actions
+- workflow_dispatch, JDK 21, Ghidra 12.1.4, MAXMEM 5G, cache project (key gproj-<hash input zip>) ข้ามการวิเคราะห์ในรอบถัดไป (วิเคราะห์ครั้งแรก ~22 นาที) ; artifact ghidra-out
+- scripts/ExportInfo.java: functions.tsv, symbols.tsv, strings.tsv (+ฟังก์ชันที่อ้างถึง), decompiled.c (ตาม keywords.txt, <=100), callers.tsv + decompiled_callers.c (<=3 ต่อฟังก์ชัน รวม <=40), บรรทัด "@0xOFFSET" ใน keywords.txt = ถอดตาม offset ตรงๆ ; ใช้ getListing().getDefinedData(true) แทน DefinedDataIterator.definedStrings
+- input/ ใส่ zip ของ libsimcity.so (workflow เลือก .so ที่ใหญ่สุด) ; repo ต้อง private และลบ .so หลังใช้ ; runner private ~2 vCPU/7GB โควต้าจำกัด ; ถ้า OOM ให้ลดงาน
+- ผู้ใช้วิเคราะห์ทุก .so (ผลเป็นโฟลเดอร์ต่อไลบรารี + index.txt/libs.txt) ; เกี่ยวข้องเฉพาะ libsimcity
+- จุดยึด Ghidra (สตริง -> offset ฟังก์ชันที่อ้าง) เก็บไว้ใน LOG_ARCHIVE (grep "จุดยึด") : XP/level (RequiredExperience 0xaa6218, RewardExperience 0xa992c4/0x10edae8, LevelUpEvent 0x11396a4/0x95c498), Vu Pass (vuxp: 0xa9078c, VuXP: 0xa96780, VuPassTier/Level 0x1b87cfc) ; ฟังก์ชัน 0xa9078c/0xa94e60/0xa96780/0xa9557c/0xa9acf0 เป็นตัวแปลงชื่อสกุล/รางวัลเป็นข้อความ ไม่ใช่ตัวอ่านสถานะ

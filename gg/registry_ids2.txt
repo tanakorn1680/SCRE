@@ -1,0 +1,1657 @@
+base libsimcity.so = 0x7E56648000 | singleton = 0x7E22A2E300
+เดินได้ 23805 โหนด | ค่าที่รู้จัก 827 ค่า เจอในทะเบียน 822 ค่า | จำนวนที่เจอทั้งหมด 1123
+
+== ตารางเจอ: ป้าย | ค่า | คีย์ในทะเบียน | offset ==
+Zest Form Above🛸	539756906	WarDisaster31Level	+0x10
+Electric Deity⚡	3778068591	WarDisaster27Level	+0x10
+Shield Buster🛡️	500621513	WarDisaster27Level	+0xD0
+Zest Form Above🛸	539756906	WarDisaster27Level	+0x190
+Doomday Quack🐤	3738933198	WarDisaster26Level	+0x10
+Electric Deity⚡	3778068591	WarDisaster26Level	+0xD0
+Shield Buster🛡️	500621513	WarDisaster26Level	+0x190
+Zest Form Above🛸	539756906	WarDisaster26Level	+0x250
+Mellow Bellow🎷	3856339377	WarDisaster29Level	+0x10
+Doomday Quack🐤	3738933198	WarDisaster29Level	+0xD0
+Electric Deity⚡	3778068591	WarDisaster29Level	+0x190
+Shield Buster🛡️	500621513	WarDisaster29Level	+0x250
+B Movie Monster🌆	3582391626	WarDisaster22Level	+0x10
+Hissy Fit🏢	3817203984	WarDisaster22Level	+0xD0
+Mellow Bellow🎷	3856339377	WarDisaster22Level	+0x190
+Doomday Quack🐤	3738933198	WarDisaster22Level	+0x250
+Building Portal🌁	2525736015	WarDisaster18Level	+0x10
+B Movie Monster🌆	3582391626	WarDisaster18Level	+0xD0
+Hissy Fit🏢	3817203984	WarDisaster18Level	+0x190
+Mellow Bellow🎷	3856339377	WarDisaster18Level	+0x250
+Dance Shoes👞	2290923657	WarDisaster12Level	+0x10
+Building Portal🌁	2525736015	WarDisaster12Level	+0xD0
+B Movie Monster🌆	3582391626	WarDisaster12Level	+0x190
+Hissy Fit🏢	3817203984	WarDisaster12Level	+0x250
+Fishaster🐟🏢	2369194443	WarDisaster14Level	+0x10
+Ancient Curse🏰	2408329836	WarDisaster14Level	+0xD0
+Hand Of Doom🧟‍♂️	3965119039	WarDisaster14Level	+0x190
+16Ton🕋	2447465229	WarDisaster14Level	+0x250
+Plant Monster🌱	2251788264	WarDisaster11Level	+0x10
+Blizzazter🏢	3925983646	WarDisaster11Level	+0xD0
+Fishaster🐟🏢	2369194443	WarDisaster11Level	+0x190
+Ancient Curse🏰	2408329836	WarDisaster11Level	+0x250
+Disco Twister🌪️🌈	2212652871	WarDisaster10Level	+0x10
+Plant Monster🌱	2251788264	WarDisaster10Level	+0xD0
+Blizzazter🏢	3925983646	WarDisaster10Level	+0x190
+Fishaster🐟🏢	2369194443	WarDisaster10Level	+0x250
+Giant Rock Monster⛰️	3699797805	WarDisaster25Level	+0x10
+Not in Kasas🌪️	3808577467	WarDisaster25Level	+0xD0
+Magnetism🧲	3886848253	WarDisaster25Level	+0x190
+Tentacle Vortex🏚️	3847712860	WarDisaster25Level	+0x250
+Shrink Ray🌐	3769442074	WarDisaster4Level	+0x10
+Giant Rock Monster⛰️	3699797805	WarDisaster4Level	+0xD0
+Not in Kasas🌪️	3808577467	WarDisaster4Level	+0x190
+Magnetism🧲	3886848253	WarDisaster4Level	+0x250
+Comic Hand✋🏻	3652035895	WarDisaster1Level	+0x10
+Shrink Ray🌐	3769442074	WarDisaster1Level	+0xD0
+Giant Rock Monster⛰️	3699797805	WarDisaster1Level	+0x190
+Not in Kasas🌪️	3808577467	WarDisaster1Level	+0x250
+🦹 Energy thief2	1147903625	EnergyThiefLevel2	+0x10
+✡️ Dud1	91798751	MinusPointsAnyLevel1	+0x10
+✡️ Dud2	91798752	MinusPointsAnyLevel1	+0x190
+❄️ City freeze1	924894801	BlockAttackLevel1	+0x10
+❄️ City freeze2	924894802	BlockAttackLevel1	+0x190
+☂️ Umbrella2	1587235433	InstantShieldLevel2	+0x10
+☔ Umbrella3	1587235434	InstantShieldLevel2	+0x190
+Comic Hand✋🏻	3652035895	RandomCardsRare5L3	+0x190
+Shrink Ray🌐	3769442074	RandomCardsRare5L3	+0x250
+Comic Hand✋🏻	3652035895	RandomCardsCommon5L3	+0x250
+🟩 medkit	226338627	MedKit	+0x10
+🥾 rubber boost	2687486542	RubberBoots	+0x10
+🦆 duck	471968558	RubberBoots	+0x110
+🌀 propeller	2332140058	Propeller	+0x10
+🥾 rubber boost	2687486542	Propeller	+0x110
+🦆 duck	471968558	Propeller	+0x210
+⛽ gasoline	3377978391	Gasoline	+0x10
+📢 megaphone	2754224665	Gasoline	+0x110
+🧰 pliers	352219700	Gasoline	+0x210
+Hissy Fit🏢	3817203984	WarDisaster28Level	+0x10
+Mellow Bellow🎷	3856339377	WarDisaster28Level	+0xD0
+Doomday Quack🐤	3738933198	WarDisaster28Level	+0x190
+Electric Deity⚡	3778068591	WarDisaster28Level	+0x250
+Magnetism🧲	3886848253	WarDisaster7Level	+0x10
+Tentacle Vortex🏚️	3847712860	WarDisaster7Level	+0xD0
+Flying Vu Robot🤖	3543256233	WarDisaster7Level	+0x190
+Disco Twister🌪️🌈	2212652871	WarDisaster7Level	+0x250
+Blizzazter🏢	3925983646	WarDisaster8Level	+0x10
+Fishaster🐟🏢	2369194443	WarDisaster8Level	+0xD0
+Ancient Curse🏰	2408329836	WarDisaster8Level	+0x190
+Hand Of Doom🧟‍♂️	3965119039	WarDisaster8Level	+0x250
+🎰 Jackpot3	1692935228	BonusPointsAnyLevel3	+0x10
+✡️ Dud1	91798751	BonusPointsAnyLevel3	+0x190
+⏩ Energy1	1965976282	EnergyPumpLevel1	+0x10
+⏩ Energy2	1965976283	EnergyPumpLevel2	+0x10
+⏭️ Energy3	1965976284	EnergyPumpLevel2	+0x190
+Not in Kasas🌪️	3808577467	WarDisaster5Level	+0x10
+Magnetism🧲	3886848253	WarDisaster5Level	+0xD0
+Tentacle Vortex🏚️	3847712860	WarDisaster5Level	+0x190
+Flying Vu Robot🤖	3543256233	WarDisaster5Level	+0x250
+✡️ Dud2	91798752	MinusPointsAnyLevel2	+0x10
+🔯 Dud3	91798753	MinusPointsAnyLevel2	+0x190
+16Ton🕋	2447465229	WarDisaster16Level	+0x10
+Spiders🕷️	2564871408	WarDisaster16Level	+0xD0
+Dance Shoes👞	2290923657	WarDisaster16Level	+0x190
+Building Portal🌁	2525736015	WarDisaster16Level	+0x250
+🦹 Energy thief1	1147903624	EnergyThiefLevel1	+0x10
+🦹 Energy thief2	1147903625	EnergyThiefLevel1	+0x190
+🎲 Jackpot1	1692935226	BonusPointsAnyLevel1	+0x10
+🎲 Jackpot2	1692935227	BonusPointsAnyLevel1	+0x190
+🥉 Factory x2	3047060422	Token_Factory_2x	+0x10
+🥈 Factory x4	3047060488	Token_Factory_2x	+0x1D0
+🏅 Shop x12	1813887575	Token_Cheetah	+0x10
+🥉 Shop x2	736168197	Token_Turtle	+0x10
+🎲 Jackpot2	1692935227	BonusPointsAnyLevel2	+0x10
+🎰 Jackpot3	1692935228	BonusPointsAnyLevel2	+0x190
+⚡ Energy vampires2	1736317037	EnergyVampireLevel2	+0x10
+Tentacle Vortex🏚️	3847712860	WarDisaster6Level	+0x10
+Flying Vu Robot🤖	3543256233	WarDisaster6Level	+0xD0
+Disco Twister🌪️🌈	2212652871	WarDisaster6Level	+0x190
+Plant Monster🌱	2251788264	WarDisaster6Level	+0x250
+The Powder Tower	3252374853	U53_Prague_Powder_Tower	+0x10
+The Grand Cat	4086871523	U75_Pets_Grand_Cat	+0x10
+❎ ammo	2090081903	Ammo	+0x10
+Canal Tower	534967956	MP02_Tower	+0x10
+Seaplane Dock	1350015626	MP_Seaplane_Dock	+0x10
+Jungle Adventure	3239118446	MP16_Jungle_Advent	+0x10
+🧤 Vu's Gloves	112710515	Droppable_Health	+0x10
+Seljalandsfoss Waterfall	3805985714	U49_Iceland_Seljalandsfoss_Waterfall	+0x10
+Bridge Le Case	4268224289	MP02_Small_City_Bridge_02	+0x10
+Pyramid Complex	305016823	U63_CA_Arch_Site	+0x10
+Patio Amore	529718016	MP02_Patio	+0x10
+Holiday Ice Park	2256957714	U71_Christmas_Santa_Park	+0x10
+Chicago Firehouse	2728412280	U65_CH_Firehouse	+0x10
+Parkside Station	3437444481	U47_Trains_Strasbourg_Station	+0x10
+Australian Museum	1005029538	U56_5_Sydney_Australian_Museum	+0x10
+Istana Negara	766525079	U81_Klr_Istana_Negara	+0x10
+River Delta	3600594816	U77_Aquatic_Riverdelta	+0x10
+Gateway to Xibalba	3806917638	MP07_Lost_Jungle_City_A	+0x10
+Dudhsagar Falls	2249952667	U44_GOA_Dudhsagar_Falls	+0x10
+Turku Castle	1389981153	MP19_Turku_Castle	+0x10
+🏮 Lantern	2159532465	AsianImports2	+0x10
+🌿 Bonsai Tree	2159532466	AsianImports2	+0x110
+Castillo del Mar	333883096	MP07_Sea_Fortress	+0x10
+🛢️ Motor Oil	2330638266	MotorOil	+0x10
+🚗 Car tire	3004814383	MotorOil	+0x110
+⚙️ Engine	4219001851	MotorOil	+0x210
+SLOT:glass/Glass	260292831	Glass	+0x10
+📬 Letter box	2750489523	VintageLantern	+0x210
+Union Station	622835743	U47_Trains_Union_Station_Washington	+0x10
+Seaside Village	2670827848	U41_Japan_Seaside_Village	+0x10
+Rice Fields of Yunnan	1849903047	MP17_Yunnan_Rice_Field	+0x10
+Compact Fire Station (Lvl. 5)	1402319152	Efficient_Small_Fire_Station_L5	+0x10
+🚽 pluger	3047857666	Plunger	+0x10
+🌀 propeller	2332140058	Plunger	+0x110
+🥾 rubber boost	2687486542	Plunger	+0x210
+Mountain Onsen	4143988468	U41_Japan_Mountain_Onsen	+0x10
+🥈 Shop x4	4177295340	Token_Llama	+0x10
+Piece de Bridgestane	3313300170	U44_Nouveau_Liberty_Bridge	+0x10
+Chinese Food Stalls	107636924	MP12_Chinese_Food_Stalls	+0x10
+Tea House	2750183326	MP14_Traditional_Teahouse	+0x10
+Maori Gate	3317736795	MP20_Maori_Gate	+0x10
+Twenties Emporium	1774567389	U79_20s_Department_Store	+0x10
+Scandinavian Design Shop	2646122948	MP11_Scandinavian_Design_Shop	+0x10
+🧴 Glue	2090296690	Glue	+0x10
+🎨 Paint	270579361	Glue	+0x110
+🛠️ Crude Oil	953030492	CrudeOil	+0x10
+Cypress Swamp	2409729401	U48_Florida_Cypress_Preserve	+0x10
+Cairo Citadel	1048005211	U63_CA_Citadel	+0x10
+🏅 Factory x12	1768742839	Token_Factory_12x	+0x10
+🌨️ City freeze3	924894803	BlockAttackLevel3	+0x10
+🎲 Jackpot1	1692935226	BlockAttackLevel3	+0x190
+Tuscany Villa	598362567	MP17_Tuscany_Villa	+0x10
+Comic Hand✋🏻	3652035895	RandomCardsLegendary5L3	+0xD0
+Shrink Ray🌐	3769442074	RandomCardsLegendary5L3	+0x190
+Giant Rock Monster⛰️	3699797805	RandomCardsLegendary5L3	+0x250
+Tokyo Cathedral	2984515772	U51_Tokyo_Cathedral	+0x10
+SLOT:plastic/Plastic	3024333205	Plastic	+0x10
+SLOT:seeds/Seeds	274276185	Plastic	+0x110
+SLOT:Mineral/Mineral	2925078336	Plastic	+0x210
+Dancing Hall	3974377464	U79_20s_Dance_Hall	+0x10
+Parted Towers	4198559218	U61_Alpha_City2_Parted_Towers	+0x10
+Giant's Causeway	2095303906	U53_5_IRL_Giants_Causeway	+0x10
+Achilleion Garden	2822191159	U81_Greek_Achilleion_Garden	+0x10
+Rustling Pages Bookstore	1936070297	MP_Bookstore	+0x10
+The Hot Cup	1303921313	MP03_Tea_House	+0x10
+Community Garden	4011326748	MP06_Community_Garden	+0x10
+Sausage Store	969789273	MP03_Sausage_Store	+0x10
+Altare Della Patria	330989771	MP15_Alt_D_Patria	+0x10
+🌳 Tree saplings	3505970006	TreeSaplings	+0x10
+⛱️ Garden Furniture	1125663546	TreeSaplings	+0x110
+🔥 Fire pit	2896802424	TreeSaplings	+0x210
+Catalonia Square	1026382411	U55_5_Barca_Catalonia_Square	+0x10
+🎮 Game console	3547936600	Console	+0x10
+🍮 Tiramisu	758095603	Console	+0x110
+🥐 Churros	3282257739	Console	+0x210
+🍩 donuts/🍩 Donuts	4181317218	GreekUrn	+0x110
+🥤 Green Smoothie	1593061790	GreekUrn	+0x210
+The Velvet Speakeasy	1906410403	U79_20s_Spaekeasy	+0x10
+Glamorous Camping Site	3501772041	MP05_Glamping_Site	+0x10
+Fancy Stables	2432812216	MP09_Stables	+0x10
+Residential Zone	1522778645	Residential_L1	+0x10
+📬 Letter box	2750489523	Pickaxe	+0x110
+🪁 Kite	2090437138	Pickaxe	+0x210
+🥛 Cream	255768525	Cream	+0x10
+🥩 Beef	2090108855	Cream	+0x110
+⏭️ Energy3	1965976284	EnergyPumpLevel3	+0x10
+⚡ Energy vampires1	1736317036	EnergyPumpLevel3	+0x190
+110	1785034579	Trade_Depot_L8	+0x10
+Flying Vu Robot🤖	3543256233	WarDisaster21Level	+0x10
+Disco Twister🌪️🌈	2212652871	WarDisaster21Level	+0xD0
+Plant Monster🌱	2251788264	WarDisaster21Level	+0x190
+Blizzazter🏢	3925983646	WarDisaster21Level	+0x250
+SimCity Telephone Company	2277917915	MP_Telephone_Company	+0x10
+Masjid Negara	4210696324	U81_Klr_Mosque	+0x10
+Spice Merchant	2143678023	MP10_Spice_Merchant	+0x10
+📢 megaphone	2754224665	MegaPhone	+0x10
+🧰 pliers	352219700	MegaPhone	+0x110
+🚽 pluger	3047857666	MegaPhone	+0x210
+👟 Shoes	274394919	Shoes	+0x10
+⌚ Watch	3276674029	Shoes	+0x110
+👔 Businesssuite	2886772521	Shoes	+0x210
+Rustic Village School	2054415556	U42_RusticVillage_School	+0x10
+Saturday Flea Market	1198460338	U44_GOA_Flea_Market	+0x10
+🎨 Paint	270579361	Paint	+0x10
+🔨 Hammer	26243455	Paint	+0x210
+The Whale	1353024422	U56_5_Amsterdam_Whale	+0x10
+Traditional Luau	2893763978	U59_Hawaii_Traditional_Luau	+0x10
+🪁 Kite	2090437138	Kite	+0x10
+🧸 Teddy bear	4097925849	Kite	+0x110
+🎮 Game console	3547936600	Kite	+0x210
+Grand Hotel	905463201	U79_20s_Jazz_Club	+0x10
+Rustic Village Boat Harbor	3539842592	U42_RusticVillage_BoatHarbor	+0x10
+High Tech Fire Department	1173563578	U74_Hightechfire_L10	+0x10
+🏖️ Beach	3425589006	ExpansionTokenBeach	+0x10
+⛰️ Mountain	222012102	ExpansionTokenBeach	+0xF0
+Deluxe Wind Power Plant	43959869	Wind_Power_Plant_L1	+0x10
+Rustic Village Market	1919804019	U42_RusticVillage_VillageCenter2	+0x10
+Stables	2400422400	U42_FarmLife_HorseStable	+0x10
+Central Police Station (Lvl. 8)	437513969	Efficient_Police_Station_L8	+0x10
+◾ anvil	253271711	Anvil	+0x10
+🔭 binoculars	1560176023	Anvil	+0x110
+🧯 fire hydrant	860715237	Anvil	+0x210
+Repurposed Bus	1420331730	MP05_Coffee_and_Tea_Shop	+0x10
+⚡ Energy vampires1	1736317036	EnergyVampireLevel1	+0x10
+⚡ Energy vampires2	1736317037	EnergyVampireLevel1	+0x190
+Hand Of Doom🧟‍♂️	3965119039	WarDisaster9Level	+0x10
+16Ton🕋	2447465229	WarDisaster9Level	+0xD0
+Spiders🕷️	2564871408	WarDisaster9Level	+0x190
+Dance Shoes👞	2290923657	WarDisaster9Level	+0x250
+Sacred Ballgame Court	3806917641	MP07_Lost_Jungle_City_D	+0x10
+🔯 Dud3	91798753	MinusPointsAnyLevel3	+0x10
+🦹 Energy thief1	1147903624	MinusPointsAnyLevel3	+0x190
+70	1785034575	Trade_Depot_L4	+0x10
+🌳 Tree saplings	3505970006	Effect_ZoneSewage	+0x110
+⛱️ Garden Furniture	1125663546	Effect_ZoneSewage	+0x210
+Merchant's Warehouse	3960985734	MP10_Merchant_Warehouse	+0x10
+Tusk Tower	3483530425	U52_5_Thailand_Elephant_Tower	+0x10
+Gloriette Viewpoint	2498376088	U79_Vienna_Gloriette	+0x10
+⛰️ Mountain	222012102	ExpansionTokenMountain	+0x10
+🏞️ Land	1925954004	ExpansionTokenCity	+0x10
+🏖️ Beach	3425589006	ExpansionTokenCity	+0xF0
+⛰️ Mountain	222012102	ExpansionTokenCity	+0x1D0
+🏞️ Land	1925954004	Capacity_SpaceOutput	+0xF0
+🏖️ Beach	3425589006	Capacity_SpaceOutput	+0x1D0
+⛰️ Mountain	222012102	Capacity_SpaceOutput	+0x2B0
+🏞️ Land	1925954004	Capacity_SpaceBalance	+0x1D0
+🏖️ Beach	3425589006	Capacity_SpaceBalance	+0x2B0
+🏞️ Land	1925954004	Capacity_StreetFoodOutput	+0x2B0
+100	1785034578	Trade_Depot_L7	+0x10
+970	3071566344	Trade_Depot_L94	+0x10
+Park Guell	88852693	U55_5_Barca_Park_Guell	+0x10
+Sustainable Goods Store	500120150	MP06_Sustainable_Goods_Shop	+0x10
+👕 Wool shirt	3981030000	WoolShirt	+0x10
+🧺 Picnic basket	2871799413	WoolShirt	+0x110
+🍎 Apple jam	3141326511	WoolShirt	+0x210
+Buccaneer Isle	285565628	MP08_Smugglers_Island	+0x10
+West Village	3010676783	U43_NYC_West_Village	+0x10
+Rio Beaches	4227254290	Effect_I_Factory_T3_Factory_02_02_Pipe5	+0x108
+Rio Beaches	4227254290	Effect_I_Factory_T3_Factory_02_02_Pipe5	+0x110
+910	3071566315	Trade_Depot_L88	+0x10
+🚜 Lawnmower	1818945505	Effect_ZoneWaste	+0x210
+Alpha Research Tower	2504860716	U61_Alpha_City2_Research_Tower	+0x10
+Rotation, Processing and Surge Facility	2215033834	U75_Artemis_Processing_Facility	+0x10
+🗿 Cement	4130269057	Cement	+0x10
+🌽 Corn	2090156119	Cement	+0x210
+🧊 Refrigerator	298050001	Refrigerator	+0x10
+🍖 BBQ Grill	1943086388	Refrigerator	+0x110
+💡 Light system	2800306816	Refrigerator	+0x210
+🛏️ Home Textiles	1228123200	HomeTextiles	+0x10
+🛋️ Couch	255678199	HomeTextiles	+0x110
+🗄️ Cupboard	334762709	HomeTextiles	+0x210
+Venice Galleria	3017636869	U58_5_Anniversary_Venice_Galleria	+0x10
+Aquatic Bungalows	1966805856	U77_Aquatic_Bungalows	+0x10
+Venice Hotel	520733631	MP02_Hotel	+0x10
+Holiday Concert Hall	3285262008	U44_Nouveau_Obecni_Dum	+0x10
+🦆 duck	471968558	RubberDuck	+0x10
+SLOT:wood/Wood	2090874750	Wood	+0x10
+SLOT:plastic/Plastic	3024333205	Wood	+0x110
+SLOT:seeds/Seeds	274276185	Wood	+0x210
+The Arcade	3995235050	MP18_Arcade	+0x10
+Thean Hou Temple	2659207020	U81_Klr_Th_Temple	+0x10
+Villa La Vigie	4152329997	U67_Monaco_Villa_Vigie	+0x10
+Outback Station	12057423	MP13_Outback_Station	+0x10
+Vienna State Opera	274397088	U79_Vienna_State_Opera	+0x10
+Falconry Demonstration	1550327562	MP14_Falconry_Demonstration	+0x10
+Gondola Station	1783384776	MP02_Gondola_Station	+0x10
+📺 TV	5863855	TV	+0x10
+Tea House L10	3241005838	Tea_House_L10	+0x10
+Adventure Kingdom	3866189364	U48_Florida_Islands_Of_Adventure	+0x10
+Central Fire Station (Lvl. 8)	2705528251	Efficient_Fire_Station_L8	+0x10
+SimCar Racetrack	869619892	U48_Florida_Race_Track	+0x10
+Maori Houses	3711171774	MP20_Maori_Village	+0x10
+Rustic Village Restaurant	344006469	U42_RusticVillage_Restaurant	+0x10
+Changdeokgung Palace	4129985946	U77_Kpop_Changdeokgung_Palace	+0x10
+Pebble Towers	1282916073	U43_AO_Pebble_Tower	+0x10
+Completely Normal Cave	2778103565	U69_Halloween_Normal_Cave	+0x10
+500 Soda Stop	848369710	U54_5_R66_500_Soda	+0x10
+Roman Forum	2320792140	MP15_Roman_Forum	+0x10
+Waterfall Dei Sogni	973779621	MP02_Waterfall	+0x10
+High Tech Police Department	637713520	U74_Hightechpolice_L10	+0x10
+🌳 Tree saplings	3505970006	Effect_ZoneGhostFire	+0x210
+QTY_ANCHOR	3104515219	WoodProd	+0x10
+🔨 Hammer	26243455	Hammer	+0x10
+📏 Measuring tape	3997830426	Hammer	+0x110
+🪕 Shovel	465115894	Hammer	+0x210
+Hawaii State Capitol	3108914917	U59_Hawaii_State_Capitol	+0x10
+Palolem Beach	3016773011	U44_GOA_Palolem_Beach	+0x10
+Galeria de arte Frida	842987971	MP07_Frida_Art_Gallery	+0x10
+🍹 Topical Drink	449644219	TropicalDrink	+0x10
+🚗 Car tire	3004814383	CarTire	+0x10
+⚙️ Engine	4219001851	CarTire	+0x110
+The Swiss Farm	3766709731	MP04_Swiss_Farm	+0x10
+Grand Gardens	3273156747	U47_Florence_Boboli_Gardens	+0x10
+SLOT:metal/EMPTY2_ITEM/Metal/Empty2	267176888	UltrawaveOven	+0x110
+SLOT:wood/Wood	2090874750	UltrawaveOven	+0x210
+❄️ City freeze2	924894802	BlockAttackLevel2	+0x10
+🌨️ City freeze3	924894803	BlockAttackLevel2	+0x190
+Historical Townhall	2982083787	MP10_Townhall	+0x10
+Victorian Fountain	3246496614	MP10_Fountain	+0x10
+Pig Pen	1957301671	U42_FarmLife_PigPen	+0x10
+Tall Church	1116497278	U49_Iceland_Tall_Church	+0x10
+Palacio Do Catete	925006678	U55_5_Rio_Janeiro_Palaciao_Catete	+0x10
+Rustic Village Center	1919804018	U42_RusticVillage_VillageCenter1	+0x10
+Space Test Center	3807045720	U75_Artemis_Stennis_Test_Facilities	+0x10
+Ryokan	615625595	U41_Japan_Ryokan	+0x10
+🍔 Burgers	2495582751	Burgers	+0x10
+🍦 Ice-cream sandwich	3582906575	Burgers	+0x110
+🍋 Lemonade bottle	4029887719	Burgers	+0x210
+Ferris Wheel	3054460135	MP16_Ferris_Wheel	+0x10
+Blue Butterfly Motel	1031128507	U54_5_R66_Blue_Butterfly_Motel	+0x10
+Hvitserkur Beach	3304892556	U49_Iceland_Hvitserkur	+0x10
+The Chromatic Haven	4189328376	U79_Vienna_Hundertwasser	+0x10
+The Big Buddha	2962929483	U57_5_Hong_Kong_Big_Buddha	+0x10
+Newgrange	124241177	U53_5_IRL_Newgrange	+0x10
+Jardin des Plantes	3642322698	U41_Paris_Jardin_Plantes	+0x10
+Ye Olde Bell Tower	3700990521	MP09_Bell_Tower	+0x10
+Angkor wat	3098759061	S7_4_Wonders1_Angor_Wat	+0x10
+The Fun Funicular	940927790	MP04_Funicular	+0x10
+Pyramid of Quetzal	2937070184	MP08_Lost_Jungle_City_B	+0x10
+Hill Of Romance	3438504168	MP_Romantic_Mountain	+0x10
+🥥 Coconut oil	248304484	CoconutOil	+0x10
+The Precious Goldsmith	2584100173	MP10_Goldsmith	+0x10
+Waka Boat Harbor	3518854316	MP20_Waka_Boat	+0x10
+Small Police Station	4144890294	Small_Police_Station_L1	+0x10
+Bridge Classico	2353433394	MP02_Large_City_Bridge	+0x10
+🍦 Frozen Yogurt	3969376131	FrozenYogurt	+0x10
+Oceanside Drive	2938786052	U48_Florida_Ocean_Drive	+0x10
+Harbor Paradiso	4282630113	MP02_Harbor	+0x10
+Lakeside Fountain	1987176175	U65_CH_Memorial_Fount	+0x10
+Castillo Del Moro	1408975735	U73_CostaR_Castillo_Morro	+0x10
+🏓 Ping-pong table	2611428527	PingPongTable	+0x10
+Goose Feather Inn	896170607	MP09_Inn	+0x10
+🧘 Yoga Mat	1886510007	YogaMat	+0x10
+🛠️ Crude Oil	953030492	YogaMat	+0x110
+Cucamonga Station	4089235330	U54_5_R66_Cucamonga_Station	+0x10
+Santa Post Office	2543819968	U71_Christmas_Postoffice	+0x10
+🛋️ Couch	255678199	Couch	+0x10
+🗄️ Cupboard	334762709	Couch	+0x110
+Blue Caves	3857028392	U81_Greek_Blue_Caves	+0x10
+Xoximilco	2647089736	U53_5_Cancun_Xoximilco	+0x10
+Beam Wireless	3257813692	U56_5_Sydney_AWA_Tower	+0x10
+Island Fort	1634727086	U46_SC_Island_Castle	+0x10
+Rainforest Towers	1460105340	U43_AO_Rainforest_Tower	+0x10
+Fluffy Pillows Hotel	3636034572	MP04_Grand_Hotel	+0x10
+Corvin Castle	4114598199	U58_5_Anniversary_Corvin_Castle	+0x10
+Perdana Botanical Gardens	2505722568	U81_Klr_Perdana_Gardens	+0x10
+The Useless Watermill	3751256091	MP09_Watermill	+0x10
+🐱 Lucky Cat	2159532464	AsianImports1	+0x10
+Sky Vista Tower	584850318	U81_Klr_Menara_Tower	+0x10
+Coney Island Boardwalk	1128428129	U43_NYC_Coney_Island	+0x10
+Dinosaur Safari Ride	2238119359	MP16_Dino_Park	+0x10
+Batu Temple Complex	1612503471	U81_Klr_Batu_Temples	+0x10
+Kuala Lumpur Central Station	847324012	U81_Klr_Station	+0x10
+Saloma Link	900872052	U81_KLR_Saloma_Link	+0x10
+Knossos Palace	1290232098	U81_Greek_Knosos_Palace_L15	+0x10
+Cycladic Windmill	2962829103	U81_Greek_Windmill	+0x10
+Milos Syrmata	2261048600	U81_Greek_Syrmata_Home	+0x10
+Cliffside Retreats	2220994176	U81_Greek_Slope_Hotels	+0x10
+Samothraki Pools	2014441902	U81_Greek_Samothraki_Pools	+0x10
+Modern Library	286933340	MP11_Modern_Library	+0x10
+Santorini Red Beach	3188716348	U81_Greek_Red_Beach	+0x10
+Port Authority Station	1824381106	U81_Greek_Island_Police_Station_L10	+0x10
+Government House	1577039799	U81_Greek_Government_House	+0x10
+Agios Nektarios Monastery	3809088091	U81_Greek_Aegina_Cathedral	+0x10
+Central Health Clinic (Lvl. 8)	1726230438	Efficient_Clinic_L8	+0x10
+Vinyl Fever Record Store	670564972	MP_Record_Store	+0x10
+Pride Tower	341574885	U79_Pride_Lightshow_Tower	+0x10
+980	3071566345	Trade_Depot_L95	+0x10
+The Clock Master's Workshop	3740661103	MP03_Clockmakers_Workshop	+0x10
+Lakefront Aquarium	1608682685	U65_CH_Shedd_Aqua	+0x10
+The Dapper Den	1943126314	U79_20s_Theater	+0x10
+Golden Roar Estate	3082018922	U79_20s_Luxury_Mansion	+0x10
+The Velvet Crown	3807703923	U79_20s_Hat_Shop	+0x10
+Roaring Skyscraper	3220693301	U79_20s_Skyscraper_L15	+0x10
+The Gilded Supper Club	2230262919	U79_20s_Artdeco_Restaurant	+0x10
+Urban Plaza	3336406386	Park_Nature_2	+0x10
+Deer Park	1341507156	U41_Japan_Deer_Park	+0x10
+SLOT:animal feed/Animal Feed	1658060491	AnimalFeed	+0x10
+The Royal Zoo	2262018785	U79_Vienna_Zoo	+0x10
+Vienna Museum Square	83636573	U79_Vienna_Maria_Platz	+0x10
+Vienna Art Museum	3322391243	U79_Vienna_Art_Museum	+0x10
+Albertina Palace	3550628923	U79_Vienna_Albertina	+0x10
+Vienna Ferris Wheel	3127636712	U79_Vienna_Ferris_Wheel	+0x10
+K-Pop Concert stage	102197541	U77_Kpop_Stage_L15	+0x10
+🧰 pliers	352219700	Pliers	+0x10
+🚽 pluger	3047857666	Pliers	+0x110
+🌀 propeller	2332140058	Pliers	+0x210
+Picture Palace	3203845361	U79_20s_Luxury_Hotel	+0x10
+Corniche of Gulf	98625425	MP14_Corniche	+0x10
+🌿 Ecological Shoes	2176471614	EcoShoes	+0x10
+🧘 Yoga Mat	1886510007	EcoShoes	+0x110
+🛠️ Crude Oil	953030492	EcoShoes	+0x210
+K-Pop Fan Hub	4014360287	U77_Kpop_Hub	+0x10
+K-Pop HQ	2854808281	U77_Kpop_Hq	+0x10
+Bongeunsa Temple	1453854792	U77_Kpop_Bongeunsa_Temple	+0x10
+Deoksugung Palace	905448001	U77_Kpop_Deoksugung_Palace	+0x10
+K-Pop Park Avenue	3625136942	U77_Kpop_Park	+0x10
+Operations and Checkout Facility	3618532590	U75_Artemis_NeilArmstrong_Operations_Building	+0x10
+Michoud Assembly Facility	4021515797	U75_Artemis_Michoud_Assembly_Facility	+0x10
+Space Flight Center	1610412181	U75_Artemis_Marshall_Space_Flight_Center	+0x10
+Mission Control Center	2509579132	U75_Artemis_ChristopherKraft_Control_Center	+0x10
+Alpha Science Center	2114260105	U43_AO_Science_Centre	+0x10
+Hohenschwangau Castle	396572438	MP17_Hohen_Castle	+0x10
+👔 Businesssuite	2886772521	BusinessSuits	+0x10
+Hvittrask Mansion	1930061771	MP19_Hvittrask	+0x10
+Reptile Sanctuary	376088654	U75_Pets_Reptile_Sanctuary	+0x10
+🍎 Apple jam	3141326511	AppleJam	+0x10
+⚙️ Wrought iron	636979469	AppleJam	+0x110
+⛩️ Carved wood	2357288819	AppleJam	+0x210
+Metropolitan Railway Stn	1903354601	T_Railway_HQ	+0x10
+Puppy Paradise	2093954214	U75_Pets_Puppy_Paradise	+0x10
+Shield Buster🛡️	500621513	WarDisaster30Level	+0x10
+Zest Form Above🛸	539756906	WarDisaster30Level	+0xD0
+⛱️ Garden Furniture	1125663546	GardenFurniture	+0x10
+🔥 Fire pit	2896802424	GardenFurniture	+0x110
+🧙 Garden Gnomes	566656095	GardenFurniture	+0x210
+Adoption Center	2911217502	U75_Pets_Adoption_Center	+0x10
+🍲 Fish Soup	1148007126	FishSoup	+0x10
+🐠 Salmon	1321484032	FishSoup	+0x110
+🕸️ Silk	2090724376	FishSoup	+0x210
+🔧 Drill	256959164	Drill	+0x10
+Orion Splashdown Site	184225616	U75_Artemis_Splashdown_Site	+0x10
+Castel Llamagero	3838714791	U61_Verona_Castelvecchio	+0x10
+Sunscape Bridge	112132293	U48_Sunshine_Skyway_Bridge	+0x10
+Space Center Visitor Complex	283751497	U75_Artemis_Visitor_Center	+0x10
+CyberBowl Arena	2789734654	U73_Cyberpunk_Superbowl_Arena	+0x10
+Cyber Lighthouse	1636054385	U73_Cyberpunk_Lighthouse	+0x10
+Irazu Volcano	2380429706	U73_CostaR_Irazu_Volcano	+0x10
+Castillo Azul	1083481252	U73_CostaR_Castillo_Azul	+0x10
+Casa Amarilla	1841906504	U73_CostaR_Casa_Amarilla	+0x10
+Monaco Casino	443490608	U67_Monaco_Casino_L15	+0x10
+Santa Express	1703812238	U71_Christmas_Santa_Express	+0x10
+Reindeer Stable	2654507222	U71_Christmas_Reindeer_Stable	+0x10
+🥈 Factory x4	3047060488	Token_Factory_4x	+0x10
+🏅 Factory x12	1768742839	Token_Factory_4x	+0x1D0
+Submarine Tour	1257884349	U77_Aquatic_Submarine_Tour	+0x10
+The King's Fortress	646123099	U71_Norway_King_Drengheim	+0x10
+📡 Microwave	1171629674	MicrowaveOven	+0x10
+🐱 Lucky Cat	2159532464	MicrowaveOven	+0x110
+Mate Shop	3423204777	MP08_Mate_Shop	+0x10
+Completely Normal Lighthouse	4168347754	U69_Halloween_Normal_Lighthouse	+0x10
+Completely Normal Library	3516238435	U69_Halloween_Normal_Library	+0x10
+Small Railway	2941006575	T_Small_Train_Station	+0x10
+Ancient Curse🏰	2408329836	WarDisaster15Level	+0x10
+Hand Of Doom🧟‍♂️	3965119039	WarDisaster15Level	+0xD0
+16Ton🕋	2447465229	WarDisaster15Level	+0x190
+Spiders🕷️	2564871408	WarDisaster15Level	+0x250
+Basilica of Goa	1641938245	U44_GOA_Basilica_Goa	+0x10
+Neuschwanstein Castle	1102264025	U69_Oktoberfest_Neuschwanstein_Castle	+0x10
+Marienplatz Square	998179718	U69_Oktoberfest_Marienplatz_Square	+0x10
+Brezel Bliss	504574092	U69_Oktoberfest_Brezel_Shop	+0x10
+Ruhmeshalle and Bavariapark	3647087847	U69_Oktoberfest_Bavaria_Statue_Park	+0x10
+Winter Brasserie	3058917393	U44_Nouveau_Palmenhaus	+0x10
+Viking Tavern	1122918423	U71_Norway_Viking_Tavern	+0x10
+Green Exchange	3337726230	U56_5_Sydney_Darling_Exchange	+0x10
+Luxurious Resort	853495105	U67_Monaco_Resort	+0x10
+Racetrack Casino	596591918	U67_Monaco_Racetrack_Casino	+0x10
+🔋 Vu's Battery	3774401731	Droppable_Education	+0x290
+Billboard Tower	1545932128	U73_Cyberpunk_Billboard	+0x10
+To-Ji Complex	4194841174	U67_KY_ToJi_Complex	+0x10
+Clifftop Wonder	2695075088	U67_KY_Kiyomizu_Temple	+0x10
+Kinkaku-Ji Temple	2719043568	U67_KY_Kinkakuji_Temple	+0x10
+Backyard Farm	510579264	U42_FarmLife_FarmsideGarden	+0x10
+Italian Restaurant	505963531	MP_Italian_Restaurant	+0x10
+Chicago Opera House	1816026088	U65_CH_Opera_House	+0x10
+Concentrated Solar Power Plant	3547591837	Solar_Power_Farm_V1	+0x10
+Great Sphinx of Giza	4058330903	U63_CA_Great_Sphinx_G	+0x10
+Railway Bridge	1211627510	U63_Trains_Iron_Bridge	+0x10
+🪑 Chairs	4133400063	XmasSock	+0x210
+Brutalist Pavilion	3129459872	U63_Brutalist_Palace_Assembly	+0x10
+Thameside Stage	2359425507	U63_Brutalist_Royal_National_Theatre	+0x10
+Brutalist Research Hub	2035616490	U63_Brutalist_Mouse_Bunker	+0x10
+Floating Home	4058078091	U61_Alpha_City2_Floating_Home	+0x10
+Verona Defense Fort	3985205023	U61_Verona_San_Leonardo	+0x10
+Renaissance Garden	3643539855	U61_Verona_Giusti_Garden	+0x10
+Khenhana beach	3609179464	U59_Hawaii_Black_Beach	+0x10
+Iolani Palace	1510126778	U59_Hawaii_Iolani_Palace	+0x10
+Aloha Tower	1298106798	U59_Hawaii_Aloha_Tower	+0x10
+Small Sewage Outflow Pipe	182280403	Small_Sewage_Plant_L1	+0x10
+The Historic House	683993281	U59_Hawaii_Historic_House	+0x10
+Alpha Marine Center	629213863	U58_5_Anniversary_Marine_Center	+0x10
+Washinton Square Park	3880168666	U58_5_Anniversary_Washington_Park	+0x10
+Blue House Cluster	3215111325	U57_5_Hong_Kong_Blue_House	+0x10
+Astronomy Museum	520534137	U57_5_Hong_Kong_Space_Museum	+0x10
+Stedeljik Museum	751497775	U56_5_Amsterdam_Stedelijk_Museum	+0x10
+Chin Lin Nunnery	2950298870	U57_5_Hong_Kong_Chi_Lin_Nunnery	+0x10
+Amsterdam park	40742115	U56_5_Amsterdam_Park	+0x10
+Fountain Plaza	3517702122	MP14_Fountain	+0x10
+Small Health Clinic	4228789867	Small_Clinic_L1	+0x10
+The Flower Bud	2650214484	U56_5_Sydney_Calyx	+0x10
+The One park	3406055453	U56_5_Sydney_One_Central	+0x10
+Llama's Landmark	873877609	U55_5_Rio_Janeiro_Llama_Ladmark	+0x10
+Llamawood Urban Art	3913909982	U48_Florida_Wynwood_Walls	+0x10
+Jardim Botanico	299388908	U55_5_Rio_Janeiro_Jardim_Botanico	+0x10
+Magic Stairs	3000478276	U55_5_Rio_Janeiro_Escadaria	+0x10
+Japanese Riverside Houses	4207120613	U41_Japan_Riverside_2	+0x10
+Cathedral of the Sea	465188623	U55_5_Barca_Sea_Cathedral	+0x10
+La Rambla Street	591847594	U55_5_Barca_La_Rambla	+0x10
+UFO Estate	3019398178	U54_5_R66_UFO_Estate	+0x10
+Flip-Flop Motel	3648595290	U54_5_R66_Boots_Motel	+0x10
+Santa's Castle	596946528	U71_Christmas_Santa_Castle	+0x10
+Blue Llama Market	2289879300	U54_5_R66_Blue_Llama_Market	+0x10
+50	1785034573	Trade_Depot_L2	+0x10
+African Safari	4170081306	U54_5_Cape_Town_Wildlife_Safari	+0x10
+Cape Point Lighthouse	526649619	U54_5_Cape_Town_CapePoint_Lighthouse	+0x10
+⚙️ Wrought iron	636979469	WroughtIron	+0x10
+⛩️ Carved wood	2357288819	WroughtIron	+0x110
+🏛️ Chrisled storn	1990081263	WroughtIron	+0x210
+Boulders Beach	1077878471	U54_5_Cape_Town_Boulders_Beach	+0x10
+Castle of Good Hope	1290075004	U54_5_Cape_Town_Castle_Hope	+0x10
+Alpha Arts Center	3358204567	U61_Alpha_City2_Neo_Art_Center	+0x10
+Mercado 28 Market	2233727089	U53_5_Cancun_Mercado28	+0x10
+Tulum Ruins	3059295539	U53_5_Cancun_Tulum_Ruins	+0x10
+Scenic Tower	3376365426	U53_5_Cancun_Torre_Escenica	+0x10
+Wonderful Barn	3679274323	U53_5_IRL_Wonderful_Barn	+0x10
+Doctor's Abbey	1180472101	U53_5_IRL_Kleymore_Abbey	+0x10
+Castle of Eloquence	4030722371	U53_5_IRL_Blarney_Castle	+0x10
+Rock of Cashel	370759245	U53_5_IRL_Rock_of_Cashel	+0x10
+Alvar Aalto Culture House	710609386	MP19_Helsinki_Kulttuuritalo	+0x10
+Prague Castle	1073072576	U53_Prague_Castle	+0x10
+Old Town Square	2195058586	U53_Prague_Old_Town_Square	+0x10
+Relaxing Trailer Camp	2061628404	MP_Trailer_Camp	+0x10
+Quadrio Center	4210375545	U53_Prague_Quadrio_Center	+0x10
+Charles Bridge	3323576210	U53_Prague_Charles_Bridge	+0x10
+Commander's Armory	1710067716	MP09_Armory	+0x10
+Patong Beach	3166650163	U52_5_Thailand_Patong_Beach	+0x10
+Robo Tower	1072852587	U52_5_Thailand_Robot_Building	+0x10
+Temple of Dawn	3776597241	U52_5_Thailand_Wat_Arun	+0x10
+Lean Library	2138768342	U52_Tromso_Public_Library	+0x10
+Lofoten	2779223991	U52_Lofoten	+0x10
+Arctic Aquarium	3656738920	U52_Polaria	+0x10
+Northern Museum	649295752	U52_Arktikum	+0x10
+Tokyo International Forum	822235988	U51_Tokyo_International_Forum	+0x10
+Nakagin Capsule Tower	2927728637	U51_Tokyo_Nakagin_Tower	+0x10
+Tokyo Big Sight	2730668644	U51_Tokyo_Big_Sight	+0x10
+Mode Gakuen Cocoon Tower	1813755749	U51_Tokyo_Cocoon_Tower	+0x10
+Tocho	1313095612	U51_Tokyo_Town_Hall	+0x10
+700	3071566248	Trade_Depot_L67	+0x10
+Tower Bridge	1526054020	U50_London_Tower_Bridge	+0x10
+Kensington Palace	2069092396	U50_London_Kensington_Palace	+0x10
+ANCHOR:plastic	1634488334	R_Gen_L2W3_Federal_05_01_Rebuild	+0x260
+ANCHOR:Mineral	1852394768	R_Gen_L2W3_Federal_05_01_Rebuild	+0x2E0
+Red House	816337669	U50_London_Red_House	+0x10
+Versla Main Street	1044093808	U49_Iceland_Main_Street	+0x10
+Svinafellsjokull Glacier	3838737420	U49_Iceland_Glacier	+0x10
+Strokkur Geyser	3753479436	U49_Iceland_Strokkur_Geysir	+0x10
+Fort Danielson	2514342913	U48_Florida_Fort_Jefferson	+0x10
+Sim West Quater	1775919191	U48_Florida_Duval_Street	+0x10
+Maori Pa	2034183851	MP20_Maori_Pa	+0x10
+Large Railway	3166966273	T_Large_Train_Station	+0x10
+Medium Railway	3057863991	T_Medium_Train_Station	+0x10
+Soccer Statue	1018840214	U79_Soccer_Game_Statue	+0x10
+Aquatic Water Park	1846917630	U77_Aquatic_Water_Park	+0x10
+Cargo Lift	3791514062	U47_Trains_Cargo_Lift	+0x10
+Railway Water Tower	2230423623	U47_Trains_Water_Tower	+0x10
+Big Leagues Bowling Alley	107684920	MP_Bowling_Club	+0x10
+Central Station	4012121163	U47_Railroads_Amsterdam_Central_Station	+0x10
+Cafe Limone	3529648562	MP02_Cafe	+0x10
+Golden Marsh Station	4152281635	U47_Trains_Kanazawa_Station	+0x10
+Royal X Station	3410963834	U47_Trains_Kings_Cross_Station	+0x10
+Square of da Simci	3059323768	U47_Florence_Piazza_Da_Simci	+0x10
+Government Plaza	795748	U47_Florence_Plaza_Signoria	+0x10
+Old Palace	3935317298	U47_Florence_Palazzo_Vecchio	+0x10
+Renaissance Gallery	978473037	U47_Florence_Uffizi_Gallery	+0x10
+Grand Fotress	2954141694	U46_SC_Brick_Castle	+0x10
+Petrin Tower	1544098790	U53_Prague_Petrin_Tower	+0x10
+Beach Castle	88433670	U46_SC_Beach_Castle	+0x10
+Explorer's Castle	1394616471	U46_SC_Explorers_Castle	+0x10
+Panjim Church	2198415314	U44_GOA_Panjim_Church	+0x10
+Fort Aguada	2872275124	U44_GOA_Fort_Aguada	+0x10
+🏛️ Chrisled storn	1990081263	ChiseledStone	+0x10
+🧵 Tapestry	3237954209	ChiseledStone	+0x110
+🎆 Stained glass	3872341991	ChiseledStone	+0x210
+Floating Casinos	2062223335	U44_GOA_Floating_Casino	+0x10
+Galeries d'Art Nouveau	493374285	U44_Nouveau_Galeries_Lafayette	+0x10
+🔥 Fire pit	2896802424	FirePit	+0x10
+🧙 Garden Gnomes	566656095	FirePit	+0x110
+Museum of Festivities	3399916022	U44_Nouveau_Museum_Applied_Arts	+0x10
+Cathedral Azure	821544135	U44_Nouveau_Blue_Church	+0x10
+Winter Garden	2435426124	U44_Nouveau_Winter_Garden	+0x10
+🔭 binoculars	1560176023	Binoculars	+0x10
+🧯 fire hydrant	860715237	Binoculars	+0x110
+Amsterdam Art Museum	1324835889	U56_5_Amsterdam_Museum	+0x10
+Achilleion Palace	3174190732	U81_Greek_Achilleion_Palace	+0x10
+Hilltop Party	3429181345	U44_GOA_Hill_Top_Party	+0x10
+Alpha Loop Park	2680174166	U43_AO_Loop_Park	+0x10
+Alpha Yatch Club	576980653	U43_AO_Yacht_Club	+0x10
+Hair Salon	1246751658	MP18_Hair_Salon	+0x10
+Fancy Drinks Hideout	3839956277	MP08_Fancy_Drinks_Hideout	+0x10
+Garbage Incinerator	2879935399	Garbage_Incinerator_L1	+0x10
+Sagrada Familia	3622542004	U55_5_Barca_Sagrada_Familia	+0x10
+Big Main Terminal	1577362781	U43_NYC_Grand_Central	+0x10
+Museum of Art	4275897282	U43_NYC_Metropolitan_Museum	+0x10
+Campus Park	2372483741	U43_NYC_Columbia_Campus	+0x10
+Backyard Basketball	3324095164	MP_Back_Alley_Basketball	+0x10
+Grand Master's Palace	2863865117	U81_Greek_Rhodes_Knight_Palace	+0x10
+Rustic Village Bakery	1386839066	U42_RusticVillage_Bakery	+0x10
+Old Farmhouse	2364893294	U42_FarmLife_Farmhouse	+0x10
+🔨 Nails	268207452	Nails	+0x10
+Cow Fields	1456232080	U42_FarmLife_CowPen	+0x10
+Rustic Windmill	3434100740	U42_FarmLife_Windmill	+0x10
+Community Hobbies Park	3214300180	MP06_Community_Hobbies_Park	+0x10
+Musee d Orsay	983359304	U41_Paris_Musee_Orsay	+0x10
+Parc des Buttes Chaumont	1714323392	U41_Paris_Bouttes_Chaumont	+0x10
+Notre-Dame	404047226	U41_Paris_Notre_Dame	+0x10
+Grand Palais	3169589217	U41_Paris_Grand_Palais	+0x10
+Saltwater Treatment	3974384577	U57_5_Saltwater_Treatment_Plant	+0x10
+Fishing Harbor	1889845484	U41_Japan_Fishing_Harbor	+0x10
+Dance of Maiko	3370574418	U41_Japan_Maiko_Dance	+0x10
+Mountain Temple	3792433336	U41_Japan_Mountain_Temple	+0x10
+👟 Football shoes	1846238891	SoccerBoots	+0x10
+🍫 Protein bar	518625563	SoccerBoots	+0x110
+Galeries d'Art Nouveau	493374285	SoccerBoots	+0x228
+Galeries d'Art Nouveau	493374285	SoccerBoots	+0x230
+Batu Temple Stairs	2109486891	U81_Klr_Batu_Stairs	+0x10
+Summer Cabin	3475745442	MP19_Lakeside_SC	+0x10
+Hame Castle	2432155905	MP19_Hame_Castle	+0x10
+Helsinki Central Railway Station	2605708664	MP19_Central_RS	+0x10
+Olavinlinna	3115278342	MP19_Olavinlinna	+0x10
+Teacup Ride	1622396365	MP16_Teacup_Ride	+0x10
+Carnival Games Square	3403546129	MP16_Carnival_GS	+0x10
+🎾 Tennis racket	2062064496	XmasGifts	+0x110
+🥤 Sports drink	1156262088	XmasGifts	+0x210
+Fontana de Trevi	382366963	MP15_Font_Di_Trevi	+0x10
+Street Football Pitch	2195781853	MP08_Back_Ally_Football	+0x10
+Ponte Vecchio	620695153	U58_5_Anniversary_Ponte_Vecchio	+0x10
+Castle Sant' Angelo	4082715434	MP15_Castel_S_Ang	+0x10
+Cups and Cakes Bakery	3716339586	MP03_Bakery	+0x10
+Dagashiya	312533906	U41_Japan_Dagashiya	+0x10
+Coptic Museum	2537702658	U63_CA_Coptic_Museum	+0x10
+Artemis II Rocket	2771745586	U75_Artemis_Rocket_L15	+0x10
+Crocodile Swamp	1271747456	MP13_Crocodile_Swamp	+0x10
+Rijksmuseum	1099952628	U56_5_Amsterdam_Rijksmuseum	+0x10
+British Museum	2834340919	U50_London_British_Museum	+0x10
+Aquarium Mall	2314695732	U77_Aquatic_Mall	+0x10
+Small Factory	612373322	ConstructionMaterialsFactory	+0x10
+Maritime Museum	1942083942	U56_5_Sydney_Maritime_Museum	+0x10
+Geothermal Power Plant	1900179467	U57_5_Geothermal_Power_Plant	+0x10
+Knitting Shop	754741008	MP11_Knitting_Supply_Shop	+0x10
+☂️ Umbrella1	1587235432	InstantShieldLevel1	+0x10
+☂️ Umbrella2	1587235433	InstantShieldLevel1	+0x190
+Stephansdom	483260335	U79_Vienna_Stephansdom	+0x10
+👜 Luxury Bag	3442603204	ParisImports2	+0x10
+🥖 La Baguette	3442603205	ParisImports2	+0x110
+☕ Teapot	527492590	ParisImports2	+0x210
+Hanok Village	3331844596	U77_Kpop_Hanok_Village	+0x10
+⛩️ Carved wood	2357288819	CarvedWood	+0x10
+🏛️ Chrisled storn	1990081263	CarvedWood	+0x110
+🧵 Tapestry	3237954209	CarvedWood	+0x210
+The Slow Swirl Restaurant	2619466615	U77_Aquatic_Restaurant	+0x10
+👗 Fashion Clothes	3442603203	ParisImports1	+0x10
+👜 Luxury Bag	3442603204	ParisImports1	+0x110
+🥖 La Baguette	3442603205	ParisImports1	+0x210
+Syros Town Hall	264407190	U81_Greek_Syros_Town_Hall	+0x10
+Museum of Fine Arts	2377872560	U73_CostaR_Art_Museum	+0x10
+University Park Cafeteria	58778652	BackToSchool_Uni_Park_Cafeteria	+0x10
+Basic Factory	3095324785	ManufacturingFactory	+0x10
+🍓 Fruit&Berries	1447646651	FruitBerries	+0x10
+🧀 Cheese	4133539474	FruitBerries	+0x110
+🥛 Cream	255768525	FruitBerries	+0x210
+🪑 Chairs	4133400063	GreekFeta	+0x110
+🌩️ Energy vampires3	1736317038	EnergyVampireLevel3	+0x10
+☂️ Umbrella1	1587235432	EnergyVampireLevel3	+0x190
+Hotel Zone	773330339	U53_5_Cancun_Hotel_Zone	+0x10
+Great Gas Station	4136166264	MP_Petrol_Station	+0x10
+Welcoming Inn	3760973140	MP12_Welcome_Inn	+0x10
+🚜 Lawnmower	1818945505	Effect_IndustrialSmoke1	+0x110
+Compact Police Station (Lvl. 5)	2876983398	Efficient_Small_Police_Station_L5	+0x10
+🥢 Ladder	182451793	Ladder	+0x10
+🥦 Vegetable	2323988583	Ladder	+0x210
+Satin Workshop	2374935231	MP12_Satin_Workshop	+0x10
+🕸️ Silk	2090724376	Silk	+0x10
+🧵 String	479440892	Silk	+0x110
+🪭 Fan	193491386	Silk	+0x210
+Temple of the Matchmaker	3809216283	MP12_Temple_of_Matchmaker	+0x10
+New Wheels Car Dealer	2321242883	MP_Car_Dealer	+0x10
+👕 Wool shirt	3981030000	BoxOfGrapes	+0x110
+🧺 Picnic basket	2871799413	BoxOfGrapes	+0x210
+🧀 Cheese	4133539474	Cheese	+0x10
+🥛 Cream	255768525	Cheese	+0x110
+🥩 Beef	2090108855	Cheese	+0x210
+Viking Longhouse	2629508219	U71_Norway_Viking_Longhouse	+0x10
+Old Pedestrian Railway Bridge	466030933	U63_Railway_Pedestrian_Bridge	+0x10
+SLOT:seeds/Seeds	274276185	Seeds	+0x10
+SLOT:Mineral/Mineral	2925078336	Seeds	+0x110
+SLOT:chemicals/Chemicals	1570439054	Seeds	+0x210
+Monument Library	3767154532	U43_NYC_Low_Memorial_Library	+0x10
+Spiders🕷️	2564871408	WarDisaster19Level	+0x10
+Dance Shoes👞	2290923657	WarDisaster19Level	+0xD0
+Building Portal🌁	2525736015	WarDisaster19Level	+0x190
+B Movie Monster🌆	3582391626	WarDisaster19Level	+0x250
+Outdoors Concert	1309962697	MP18_Big_Concert	+0x10
+Sports Car Dealer	253685910	MP18_Sports_Car_Dealer	+0x10
+Aerobics and Gym	2739940030	MP18_Gym_Aerobics	+0x10
+Villa Classica	537112411	MP02_Villa	+0x10
+Victoria Inner Harbor	2139952231	MP17_Victoria_Harbor	+0x10
+Japanese Garden	3852351456	MP17_Japanese_Garden	+0x10
+Amsterdam Canal South	3215306486	MP17_Amsterdam_Canal_2	+0x10
+🧙 Garden Gnomes	566656095	GardenGnomes	+0x10
+Amsterdam Canal North	3215306485	MP17_Amsterdam_Canal_1	+0x10
+Uluru	2163618106	MP13_Small_Uluru	+0x10
+Goat Park	3107640949	U42_FarmLife_GoatFarm	+0x10
+Cape Town Stadium	2494909260	U54_5_Cape_Town_Stadium	+0x10
+Kangaroo Field	1900459706	MP13_Kangaroo_Field	+0x10
+Pavillion of Niu	1218180180	MP12_Pavilion_of_Qixi	+0x10
+Mellow Winery	1242816945	MP12_Mellow_Winery	+0x10
+Quaint Market Hall	1981990599	MP11_Market_Hall	+0x10
+Golden Llama Guild House	2919049050	MP10_Guild_House	+0x10
+Apothecary	442916474	MP09_Apothecary	+0x10
+Plaza del Tollan	2937070185	MP08_Lost_Jungle_City_C	+0x10
+Las Cascadas	4031736420	MP08_Waterfall_Nature_Preserve	+0x10
+Sunday Street Market	1228122528	MP08_Sunday_Market	+0x10
+Rainforest Waterpark	2663364842	MP07_Giant_Water_Park	+0x10
+Banana Stand	3687390754	MP07_Banana_Stand	+0x10
+Parque da Capoeira	3161038137	MP07_Capoeira_Park	+0x10
+📬 Letter box	2750489523	LetterBlocks	+0x10
+🪁 Kite	2090437138	LetterBlocks	+0x110
+🧸 Teddy bear	4097925849	LetterBlocks	+0x210
+Portal Ruins	3432657671	U63_CA_Portal_Ruins	+0x10
+⌚ Watch	3276674029	Sunglasses	+0x10
+👔 Businesssuite	2886772521	Sunglasses	+0x110
+Pet Activity Park	2462938312	MP05_Pet_Activity_Park	+0x10
+Animal Santuary	841927665	MP05_Animal_Sanctuary	+0x10
+Country Castle	4118687671	U46_SC_Tiny_Castle	+0x10
+Vet Clinic	3266402815	MP05_Veterinarian_Clinic	+0x10
+🍮 Tiramisu	758095603	Tiramisu	+0x10
+🥐 Churros	3282257739	Tiramisu	+0x110
+🍩 Profiteroles	1568337616	Tiramisu	+0x210
+Pet Supply Store	628949972	MP05_Pet_Supply_Shop	+0x10
+Observation Deck	3602367303	MP04_Observation_Deck	+0x10
+Canalside Manor	71878264	MP04_Canal_Mansion	+0x10
+Toys and Joys Store	1008927481	MP03_Toy_Shop	+0x10
+Old Town Market	3301194733	MP03_Old_Town_Market	+0x10
+🥦 Vegetable	2323988583	XmasGiftBox	+0x110
+🌾 Flour Bag	2166987306	XmasGiftBox	+0x210
+Bridge of Bellezza	2664798368	MP02_Small_City_Bridge	+0x10
+Garden Autunno	4243496564	MP02_Garden	+0x10
+Garden La Pace	3530116145	MP02_Park	+0x10
+Venice Apartments	1522577122	MP02_Apartments	+0x10
+Roller Skating Lounge	1500570218	MP_Roller_Skating_Lounge	+0x10
+Crispy Clean Laundry Wash	4117126624	MP_Laundry	+0x10
+The Shaky Milkshake Lounge	2914370883	MP_Milkshake_Lounge	+0x10
+Pretty Petals Flower Store	2362601308	MP_Flower_Store	+0x10
+Floating Villa	1691892761	U77_Aquatic_Floating_Villa	+0x10
+Post Office	1085959474	MP_Post_Office	+0x10
+SimCity Bank	3598434877	MP_Bank	+0x10
+Swingy Tunes Jazz Club	2616897317	MP_Jazz_Club	+0x10
+Hair and Clippers Salon	2153546792	MP_Barber_Shop	+0x10
+Foods and Stuffs Store	1169034027	MP_General_Store	+0x10
+Colorful Apartments	4231562616	MP06_Green_Residential_Building_A	+0x10
+🍰 Cherry Cheesecake	3828076787	CherryCheesecake	+0x10
+🍦 Frozen Yogurt	3969376131	CherryCheesecake	+0x110
+🔩 Bolt	254483049	Bolts	+0x10
+Peaceful Park	3336406385	Park_Nature_1	+0x10
+Rustic Village Inn	2191332097	U42_RusticVillage_Inn	+0x10
+Twirly Tower	3419051146	U61_Alpha_City2_Twirly_Tower	+0x10
+Multi-Payload Processing Facility	2510181150	U75_Artemis_MultiPayload_Processing_Facility	+0x10
+Holiday Decorations Store	2094173274	MP03_Holiday_Store	+0x10
+Dainty Drunkery	3348745440	MP12_Dainty_Drunkery	+0x10
+Colosseum	2089810913	MP15_Colosseum	+0x10
+40/City Storage	1785034572	Trade_Depot_L1	+0x10
+ANCHOR:plastic	1634488334	R_Gen_L2W3_Federal_01_01_Rebuild	+0x1A0
+ANCHOR:Mineral	1852394768	R_Gen_L2W3_Federal_01_01_Rebuild	+0x220
+ANCHOR:chemicals	1701331730	R_Gen_L2W3_Federal_01_01_Rebuild	+0x260
+ANCHOR:textiles	2019906576	R_Gen_L2W3_Federal_01_01_Rebuild	+0x2A0
+ANCHOR:sugar and spices	1884516961	R_Gen_L2W3_Federal_01_01_Rebuild	+0x2E4
+Pixel Tower	208677870	U52_5_Thailand_MahaNakhon	+0x10
+Spice Souk	3922221213	MP14_Spice_Market	+0x10
+SLOT:sugar and spices/Sugar&Spice	1807545838	SugarSpices	+0x10
+SLOT:glass/Glass	260292831	SugarSpices	+0x210
+Garbage Dump	3359283967	Garbage_Dump_L1	+0x10
+Luxembourg Garden	644629827	MP17_Jardin_Du_Luxem	+0x10
+SLOT:electrical components/Electrical Components	4113349603	ElectricalComponents	+0x10
+Volcano Roller Coaster	4252442934	MP16_Volc_Roll_C	+0x10
+📡 Vu's Remote	4292929069	Droppable_Crime	+0x10
+🧤 Vu's Gloves	112710515	Droppable_Crime	+0x290
+Wind Power Plant	751144117	Small_Wind_Power_Plant_L1	+0x10
+Mysterious Scrapyard	3166438505	MP_Junkyard	+0x10
+The Round Tower	1146948722	U57_5_Hong_Kong_Hopewell	+0x10
+Cross Country Ski Tracks	2167457805	MP11_Cross_Country_Ski_Tracks	+0x10
+Pantheon	3400229668	MP15_Pantheon	+0x10
+🥐 Churros	3282257739	Churros	+0x10
+🍩 Profiteroles	1568337616	Churros	+0x110
+🍡 Mochi	267517973	Churros	+0x210
+Vine Apartments	1654598104	MP05_Green_Residential_Building_B	+0x10
+Restaurant Sapori	2834731340	MP02_Restaurant	+0x10
+Parisan Brasserie	1960640040	U41_Paris_Brasserie_Boulangerie	+0x10
+Vertical Farm	2790959630	U43_AO_Vertical_Farm	+0x10
+Tango Ballroom	1827563311	MP07_Tango_Cafe	+0x10
+Casino City Park	3911060505	Casino_Lucky_Fountain_Park	+0x10
+Prague Central	1906963775	U63_Trains_Prague_Central_Station	+0x10
+☕ Coffee	4141877485	Coffee	+0x10
+🧢 Cap	1534432269	Coffee	+0x110
+👟 Shoes	274394919	Coffee	+0x210
+🥩 Beef	2090108855	Beef	+0x10
+🪑 Chairs	4133400063	Chairs	+0x10
+🍽️ Table	495471776	Chairs	+0x210
+Fish Market	2609856018	Fish_Market	+0x10
+Rio Beaches	4227254290	Effect_I_Factory_T3_Factory_02_02_Pipe4	+0x208
+Rio Beaches	4227254290	Effect_I_Factory_T3_Factory_02_02_Pipe4	+0x210
+Sapphire Cove	1786836125	U49_Iceland_Sapphire_Cove	+0x10
+Westminster Abbey	980195054	U50_London_Westminster_Abbey	+0x10
+Modern Art Park	712780976	Modern_Art	+0x10
+EMPTY_ITEM/Small Fountain Park/Empty	2622863190	Park_Fountain	+0x10
+Taxi Stop L10	776814664	Taxi_Station_L10	+0x10
+Blacksmith Workshop	1279913324	MP09_Blacksmith	+0x10
+🌿 Grass	260508453	GreekBouzouki	+0x110
+Vegan Restaurant	1352191295	MP05_Vegan_Restaurant	+0x10
+Central Park South	3869504048	MP17_Central_Park_2	+0x10
+Rio Beaches	4227254290	U55_5_Rio_Janeiro_Beaches	+0x10
+🍩 donuts/🍩 Donuts	4181317218	XmasWreath	+0x210
+Arlay Halt	1591925015	U63_Trains_Arley_Halt	+0x10
+Garden Palace	1396765115	U47_Florence_Palazzo_Pitti	+0x10
+Guard House B&B	582727808	MP09_Guard_House	+0x10
+🪡 Recycle Fabric	2814171383	RecycledFabric	+0x10
+♻️ Reusable Bag	1553334434	RecycledFabric	+0x110
+Nothern Lights Research Institute L10	4233439351	Northern_Lights_Research_L10	+0x10
+High Tech Medical Center	1316196483	U74_Hightech_Medicalcenter_L10	+0x10
+🎾 Tennis racket	2062064496	TennisRacket	+0x10
+🥤 Sports drink	1156262088	TennisRacket	+0x110
+👟 Football shoes	1846238891	TennisRacket	+0x210
+Helsinki Cathedral	3665713641	MP19_Helsinki_Cathedral	+0x10
+Repurposed Airline	3139256059	MP06_Airplane_Restaurant	+0x10
+Fresh Water Pumping Station	1575952079	Water_Pumping_Station_V2	+0x10
+Sacre-Coeur	3232465767	U41_Paris_Sacre_Coeur	+0x10
+Movie Rental	656179119	MP18_Movie_rental	+0x10
+Ksar of Ait-Benhaddou	3526516337	MP14_Ksar_of_Ait_BH	+0x10
+Small Garbage Dump	3553682807	Small_Garbage_Dump_L1	+0x10
+🧸 Teddy bear	4097925849	TeddyBear	+0x10
+🎮 Game console	3547936600	TeddyBear	+0x110
+🍮 Tiramisu	758095603	TeddyBear	+0x210
+🪕 Shovel	465115894	Shovel	+0x10
+🍳 Cooking Utensils	1799827558	Shovel	+0x110
+🔧 Drill	256959164	Shovel	+0x210
+Pasar Seni Market	4194050446	U81_Klr_Market	+0x10
+Ponte Milvio	3721905308	MP15_Ponte_Milvio	+0x10
+60	1785034574	Trade_Depot_L3	+0x10
+Acropolis	2491489655	U58_5_Anniversary_Acropolis	+0x10
+Hilltop Stronghold	3509066558	U61_Verona_San_Pietro	+0x10
+Nordic Church	2333224262	U52_Kiruna_Church	+0x10
+⚙️ Engine	4219001851	Engine	+0x10
+Castle of the Knights	2630427608	U46_SC_Knight_Castle	+0x10
+Police Headquaters	3396919199	Police_Precinct_V2	+0x10
+Treehouse Resort	26934349	U52_Glass_Treehouse	+0x10
+Santa C. Beach	1865403167	MP18_MSC_Beach	+0x10
+Gondola Elevator	2753253481	MP04_Gondola	+0x10
+SLOT:metal/EMPTY2_ITEM/Metal/Empty2	267176888	Metal	+0x10
+SLOT:wood/Wood	2090874750	Metal	+0x110
+SLOT:plastic/Plastic	3024333205	Metal	+0x210
+🧴 Face cream	2554427420	FaceCream	+0x10
+Firewheel Lounge	3737615478	MP_Motorcycle_Bar	+0x10
+Secret Garden	3493411704	MP10_Secret_Garden	+0x10
+🍲 Fish Soup	1148007126	4DPrinter	+0x110
+🐠 Salmon	1321484032	4DPrinter	+0x210
+Central Park North	3869504047	MP17_Central_Park_1	+0x10
+Basic Water Tower	139346164	Water_Tower_L1	+0x10
+SLOT:textiles/Textile	144394935	Textiles	+0x10
+SLOT:Mineral/Mineral	2925078336	Minerals	+0x10
+SLOT:chemicals/Chemicals	1570439054	Minerals	+0x110
+SLOT:textiles/Textile	144394935	Minerals	+0x210
+🍦 Ice-cream sandwich	3582906575	IceCreamSandwich	+0x10
+🍋 Lemonade bottle	4029887719	IceCreamSandwich	+0x110
+🍿 Popcorn	3158948070	IceCreamSandwich	+0x210
+990	3071566346	Trade_Depot_L96	+0x10
+Viking Village	671412064	U49_Iceland_Viking_Village	+0x10
+Skyline Harmony Hub	4159043924	U81_Klr_Harmony_Hub_L12	+0x10
+🎂 Pavlova	2618491646	Pavlova	+0x10
+Broadway	1559447138	U43_NYC_Broadway	+0x10
+750	3071566276	Trade_Depot_L72	+0x10
+Vienna St. Charles's Church	1143150652	U79_Vienna_Karlskirche	+0x10
+SimCity Newspaper Office	2189747553	MP_Newspaper_Office	+0x10
+Rustic Village Bus Station	4186846536	U42_RusticVillage_BusStation	+0x10
+Compact Health Clinic (Lvl. 5)	2250608923	Efficient_Small_Clinic_L5	+0x10
+Completely Normal Picnic	2215383940	U69_Halloween_Normal_Picnic	+0x10
+🟫 Planks	351941774	Planks	+0x10
+Fountain Della Natura	1144653927	MP02_Fountain	+0x10
+Mahjong Hall L10	1225598517	Mahjong_Hall_L10	+0x10
+Times Square	3973983515	U43_NYC_Times_Square	+0x10
+80	1785034576	Trade_Depot_L5	+0x10
+Crescent Telecom Tower	1332270811	U81_Klr_Tm_Tower	+0x10
+Twin Pillars	2358607547	U63_Brutalist_Western_City_Gate	+0x10
+🧀 Cheese fired	3575172235	CheeseFries	+0x10
+🍕 Pizza	270885747	CheeseFries	+0x110
+🍔 Burgers	2495582751	CheeseFries	+0x210
+Health Clinic	1155556851	Clinic_L1	+0x10
+🔋 Vu's Battery	3774401731	Droppable_Fire	+0x10
+Grand Fire Station	1840116317	Large_Fire_Station_V2	+0x10
+Coal Power Plant	2997635818	Coal_Power_Plant_L1	+0x10
+Vectoria Terminal	3717886059	U47_Trains_Chhatrapati_Shivaji_Station	+0x10
+Windmill Water Pump	2527655304	MP13_Windmill_Water_Pump	+0x10
+Heritage Museum	2883748013	U65_CH_Field_Museum	+0x10
+Phra Nang Beach	3768214889	U52_5_Thailand_Cave_Beach	+0x10
+🎣 Fish	2090257423	Fish	+0x10
+🥤 Sports drink	1156262088	SportsDrink	+0x10
+👟 Football shoes	1846238891	SportsDrink	+0x110
+🍫 Protein bar	518625563	SportsDrink	+0x210
+Columbia Road Flower Market	2565391129	U50_London_Flower_Market	+0x10
+🍡 Mochi	267517973	Mochi	+0x10
+🎂 Pavlova	2618491646	Mochi	+0x110
+Poultry Haven	575885449	U42_FarmLife_PoultryFarm	+0x10
+Emu Plains	531443048	MP13_Emu_Habitat	+0x10
+👘 Robe	2090694637	Robe	+0x10
+Garden Storico	1334986002	MP02_Park_02	+0x10
+Bolivarian Arts Venue	625101342	U63_Brutalist_Cultural_Complex	+0x10
+Dining Hall	3526923612	MP11_Dining_Hall	+0x10
+🍿 Popcorn	3158948070	Popcorn	+0x10
+📺 TV	5863855	Popcorn	+0x110
+Phi Phi Islands	1747127097	U52_5_Thailand_Phi_Phi	+0x10
+Basic Fire Station	388741896	Fire_Station_L1	+0x10
+🍽️ Table	495471776	Tables	+0x10
+🔨 Nails	268207452	XmasHolidayStar	+0x210
+Pouwhenua	3282853695	MP20_Pouwhenua	+0x10
+Haunted House	830720788	MP16_Haunted_House	+0x10
+NeonCorp Tower	989916564	U73_Cyberpunk_Corporate_Tower	+0x10
+Police Academy	1333524968	U57_5_Police_Academy	+0x10
+The Chicago Tower	4099714328	U65_CH_John_Hanc_C	+0x10
+👕 Wool shirt	3981030000	Hayfork	+0x210
+Funicular de Santiago	2801077429	MP07_Chile_Funicular	+0x10
+Cathedral of Flowers	1873405464	U47_Florence_Cathedral_Santa_Maria	+0x10
+🥤 Green Smoothie	1593061790	GreenSmoothie	+0x10
+🥖 Bread roll	123794044	GreenSmoothie	+0x110
+🍰 Cherry Cheesecake	3828076787	GreenSmoothie	+0x210
+Small Fire Station	583140736	Small_Fire_Station_L1	+0x10
+Waste to Energy Plant	423504374	Garbage_Incinerator_V2_L9	+0x10
+Twenties Police Station	816648294	U79_20s_Art_Deco_Police_Station_L10	+0x10
+120	1785034580	Trade_Depot_L9	+0x10
+Fragment	3510274777	U50_London_Shard	+0x10
+Camel Racing Track	250769903	MP14_Camel_Racing_Track	+0x10
+Canalside Inn	3512653695	MP04_Canal_Hotel	+0x10
+Castle of Towers	678737156	U46_SC_Tower_Castle	+0x10
+Handicraft Store	2195329908	MP06_Handicraft_Shop	+0x10
+🎼 Storage Bars	543978041	Droppable_Sewage	+0x10
+🎆 Stained glass	3872341991	StainedGlass	+0x10
+Cape Town Waterfront	3533546881	U54_5_Cape_Town_Waterfront	+0x10
+Reflecting Pool Park	3044873932	Park_Pool	+0x10
+Smoothie Bar	1049672355	MP06_Smoothie_Bar	+0x10
+The Night Market	2053983474	U73_Cyberpunk_Night_Market	+0x10
+High Tech Sewage Tower	2164066203	U57_5_HighTech_Sewage_Treatment_Tower	+0x10
+🌿 Bonsai Tree	2159532466	AsianImports3	+0x10
+SLOT:chemicals/Chemicals	1570439054	Chemicals	+0x10
+SLOT:textiles/Textile	144394935	Chemicals	+0x110
+Markku's Cat Cafe	3349770313	MP11_Cat_Cafe	+0x10
+Silk Merchant	3740038470	MP10_Silk_Merchant	+0x10
+Ponte Llamagero	1556525192	U61_Verona_Ponte_Scaligero	+0x10
+The Mall	761321168	MP18_Mall	+0x10
+🥖 La Baguette	3442603205	ParisImports3	+0x10
+☕ Teapot	527492590	ParisImports3	+0x110
+⛑️ Bobby's Helmet	527492591	ParisImports3	+0x210
+Black Swan Lake	1702848470	MP13_Black_Swan_Lake	+0x10
+The Wired Frames Museum	1748288711	MP04_Art_Museum	+0x10
+Pegasus Barge	1900473521	U75_Artemis_Pegasus_Barge	+0x10
+Port Hercules	1916988685	U67_Monaco_Port_Hercules_L10	+0x10
+SLOT:metal/EMPTY2_ITEM/Metal/Empty2	267176888	CryofusionChamber	+0x210
+Sewage Reclamation Plant	4282849190	Sewage_Plant_V2	+0x10
+🪭 Fan	193491386	Fan	+0x10
+👘 Robe	2090694637	Fan	+0x110
+Signal Box	2596917178	U47_Trains_Signal_Box	+0x10
+Arch of Constatine	577541131	MP15_Arch_Of_Cons	+0x10
+🐠 Salmon	1321484032	SalmonSandwich	+0x10
+🕸️ Silk	2090724376	SalmonSandwich	+0x110
+🧵 String	479440892	SalmonSandwich	+0x210
+Basic Sewage Outflow Pipe	4282848859	Sewage_Plant_L1	+0x10
+The Sleeping Llama Motel	2797788642	MP_Motel	+0x10
+🍕 Pizza	270885747	Pizza	+0x10
+🍔 Burgers	2495582751	Pizza	+0x110
+🍦 Ice-cream sandwich	3582906575	Pizza	+0x210
+📷 Storage Camera	13285930	Droppable_Power	+0x10
+Oilpaper Umbrella Shop	4222706926	MP12_Oilpaper_Umbrella_Booth	+0x10
+ANCHOR:plastic	1634488334	R_Gen_L2W3_Federal_07_01_Rebuild	+0xE0
+ANCHOR:Mineral	1852394768	R_Gen_L2W3_Federal_07_01_Rebuild	+0x160
+ANCHOR:chemicals	1701331730	R_Gen_L2W3_Federal_07_01_Rebuild	+0x1A0
+ANCHOR:textiles	2019906576	R_Gen_L2W3_Federal_07_01_Rebuild	+0x1E0
+ANCHOR:sugar and spices	1884516961	R_Gen_L2W3_Federal_07_01_Rebuild	+0x224
+ANCHOR:animal feed	1768833300	R_Gen_L2W3_Federal_07_01_Rebuild	+0x2A0
+ANCHOR:electrical components	1869639023	R_Gen_L2W3_Federal_07_01_Rebuild	+0x2EC
+The Center	2912039155	U57_5_Hong_Kong_The_Center	+0x10
+🚜 Lawnmower	1818945505	LawnMower	+0x10
+Cancun Aquarium	1434641713	U53_5_Cancun_Aquarium	+0x10
+Green Heights	1654598105	MP05_Green_Residential_Building_C	+0x10
+Pataka	576934165	MP20_Pataka	+0x10
+♻️ Reusable Bag	1553334434	ReusableBag	+0x10
+Pirate Bay	240217640	MP16_Pirate_Bay	+0x10
+90	1785034577	Trade_Depot_L6	+0x10
+Romanesque Basilica	1942240922	U47_Florence_Basilica_San_Miniato	+0x10
+Reclaimed Oil Tanker	1009787955	MP05_Reclaimed_Oil_Tanker	+0x10
+Vargr's Fang	310463261	U71_Norway_Vargr_Fang	+0x10
+🍳 Cooking Utensils	1799827558	CookingUtensils	+0x10
+🔧 Drill	256959164	CookingUtensils	+0x110
+🍋 Lemonade bottle	4029887719	LemonadeBottles	+0x10
+🍿 Popcorn	3158948070	LemonadeBottles	+0x110
+📺 TV	5863855	LemonadeBottles	+0x210
+🧢 Cap	1534432269	Overalls	+0x10
+👟 Shoes	274394919	Overalls	+0x110
+⌚ Watch	3276674029	Overalls	+0x210
+Museum of Saggezza	207097599	MP02_Museum	+0x10
+💡 Light system	2800306816	LightingSystem	+0x10
+📡 Microwave	1171629674	LightingSystem	+0x110
+🐱 Lucky Cat	2159532464	LightingSystem	+0x210
+🌴 Coconut	3534746944	Coconut	+0x10
+Medical Research center	1900838580	U57_5_Medical_Research_Center	+0x10
+Pony Stables	1592379678	U75_Pets_Cute_Stables	+0x10
+Rotating Tower	2168669799	U43_AO_Rotating_Tower	+0x10
+🧺 Picnic basket	2871799413	PicnicBasket	+0x10
+🍎 Apple jam	3141326511	PicnicBasket	+0x110
+⚙️ Wrought iron	636979469	PicnicBasket	+0x210
+Fountain on a Lake	1280256681	MP04_Fountain	+0x10
+Evergreen Granary	4037214686	MP09_Granary	+0x10
+The Gooyer Windmill	3215052585	U56_5_Amsterdam_Gooyer_Windmill	+0x10
+🐟 Canned Fish	1939782264	CannedFish	+0x10
+Haka Rugby Pitch	3455218496	MP20_Haka_Rugby	+0x10
+🧀 Cheese fired	3575172235	XmasSled	+0x110
+🍕 Pizza	270885747	XmasSled	+0x210
+🍩 Profiteroles	1568337616	Profiterole	+0x10
+🍡 Mochi	267517973	Profiterole	+0x110
+🎂 Pavlova	2618491646	Profiterole	+0x210
+Pere Lachaise Cemetery	2580911489	U41_Paris_Pere_Lachaise	+0x10
+Alchemist Lab	319647626	MP10_Alchemist_Lab	+0x10
+☕ Teapot	527492590	LondonImports1	+0x10
+⛑️ Bobby's Helmet	527492591	LondonImports1	+0x110
+📞 Telephone Box	527492592	LondonImports1	+0x210
+🎾 Tennis racket	2062064496	GingerBread	+0x210
+Sunset Diner	4066485748	MP_Classic_Diner	+0x10
+The Chocolatiere	4060143926	MP03_Chocolatiere	+0x10
+La Pedrera	3869761737	U55_5_Barca_Casa_Mila	+0x10
+Thrift Shop	3400587478	MP06_Second_Hand_Shop	+0x10
+Koala Grove	241887055	MP13_Koala_Grove	+0x10
+🗄️ Cupboard	334762709	Cupboard	+0x10
+🌿 Grass	260508453	Cupboard	+0x210
+City Palace	3577793644	U46_SC_City_Castle	+0x10
+Dragon Temple	3165844925	U52_5_Thailand_Wat_Samphran	+0x10
+🔨 Nails	268207452	GreekOlives	+0x110
+🧯 fire hydrant	860715237	FireHydrant	+0x10
+⛽ gasoline	3377978391	FireHydrant	+0x210
+The Hopping Hare Tavern	1897965091	MP03_Alps_Tavern	+0x10
+The Grand Ol' Clock	4273087681	MP04_Clock_Tower	+0x10
+Tower of London	1914030145	U50_London_Tower_London	+0x10
+🔨 Hammer	26243455	GreekOil	+0x110
+📏 Measuring tape	3997830426	GreekOil	+0x210
+Aquatic Park	2314803740	U77_Aquatic_Park	+0x10
+Open Air Theatre	185478176	MP06_Open_Air_Theatre	+0x10
+Whale Watch	3030238986	MP20_Whale_Watch	+0x10
+📞 Telephone Box	527492592	LondonImports3	+0x10
+🪡 Recycle Fabric	2814171383	LondonImports3	+0x110
+♻️ Reusable Bag	1553334434	LondonImports3	+0x210
+⛑️ Bobby's Helmet	527492591	LondonImports2	+0x10
+📞 Telephone Box	527492592	LondonImports2	+0x110
+🪡 Recycle Fabric	2814171383	LondonImports2	+0x210
+🥦 Vegetable	2323988583	Vegetables	+0x10
+🌾 Flour Bag	2166987306	Vegetables	+0x110
+Biodome Waste Facility	3553399841	U57_5_S_Biodome_Waste_Facility	+0x10
+Vertical Garden	2852287833	U43_AO_Vertical_Garden	+0x10
+Royal Fortress	4074752340	U67_KY_Nijo_Castle	+0x10
+Sugarloaf Mountain	2421857621	U55_5_Rio_Janeiro_Sugarloaf_Mountain	+0x10
+🧵 String	479440892	String	+0x10
+🪭 Fan	193491386	String	+0x110
+👘 Robe	2090694637	String	+0x210
+Flea Market	1270694914	MP06_Flea_Market	+0x10
+Unfolding House	484993016	U61_Alpha_City2_Unfolding_House	+0x10
+🍖 BBQ Grill	1943086388	BBQgrill	+0x10
+💡 Light system	2800306816	BBQgrill	+0x110
+📡 Microwave	1171629674	BBQgrill	+0x210
+Heritage Chapel	793178520	U61_Verona_Scaliger_Tombs	+0x10
+Harmony Medical Centre	3082534046	U81_Klr_Modern_Hospital_L10	+0x10
+🌽 Corn	2090156119	Corn	+0x10
+Museum of Ancient Heritage	1978796257	MP08_Museum_of_Ancient_Civilizations	+0x10
+🥥 Coconut oil	248304484	Effect_IndustrialSmoke3	+0x110
+🧵 Tapestry	3237954209	Tapestry	+0x10
+🎆 Stained glass	3872341991	Tapestry	+0x110
+🎒 Backpack	108385717	Backpack	+0x10
+🧀 Cheese fired	3575172235	Backpack	+0x210
+Japanese Riverside Mansions	4207120612	U41_Japan_Riverside_1	+0x10
+🔒 Storage Lock	21080992	Droppable_Water	+0x10
+🎼 Storage Bars	543978041	Droppable_Water	+0x150
+🍩 donuts/🍩 Donuts	4181317218	Donuts	+0x10
+🥤 Green Smoothie	1593061790	Donuts	+0x110
+🥖 Bread roll	123794044	Donuts	+0x210
+🥖 Bread roll	123794044	BreadRoll	+0x10
+🍰 Cherry Cheesecake	3828076787	BreadRoll	+0x110
+🍦 Frozen Yogurt	3969376131	BreadRoll	+0x210
+🍫 Protein bar	518625563	ProteinBar	+0x10
+Galeries d'Art Nouveau	493374285	ProteinBar	+0x128
+Galeries d'Art Nouveau	493374285	ProteinBar	+0x130
+900	3071566314	Trade_Depot_L87	+0x10
+📏 Measuring tape	3997830426	MeasuringTape	+0x10
+🪕 Shovel	465115894	MeasuringTape	+0x110
+🍳 Cooking Utensils	1799827558	MeasuringTape	+0x210
+🌿 Grass	260508453	Grass	+0x10
+Lion's Station	75958285	U47_Railroads_Gare_De_Lyon_Station	+0x10
+Wool Rug Bazaar	2665201776	MP14_Wool_Rug_Workshop	+0x10
+🧱 Bricks	4106404611	Bricks	+0x10
+🗿 Cement	4130269057	Bricks	+0x110
+Basic Police Station	2897951038	Police_Station_L1	+0x10
+🌾 Flour Bag	2166987306	FlourBags	+0x10
+☔ Umbrella3	1587235434	InstantShieldLevel3	+0x10
+
+== dump GlassProd (ไม่แสดงค่า 0) ==
++0x000	1485698104	0x588DF438
++0x004	126	0x7E
++0x008	1078132384	0x4042FEA0
++0x00C	126	0x7E
++0x010	-1150912908	0xBB667674
++0x014	1111703808	0x42434100
++0x018	1077910912	0x403F9D80
++0x01C	126	0x7E
++0x020	16	0x10
++0x028	39	0x27
++0x02C	808464432	0x30303030
++0x058	-56840089	0xFC9CB067
++0x05C	-2089822684	0x836FD624
++0x060	-904780022	0xCA12270A
++0x064	-858063059	0xCCDAFF2D
++0x068	-56840089	0xFC9CB067
++0x06C	-2089822684	0x836FD624
++0x070	810388367	0x304D8B8F
++0x074	1439899836	0x55D320BC
++0x078	-56840089	0xFC9CB067
++0x07C	-2089822684	0x836FD624
++0x080	535786828	0x1FEF754C
++0x084	596770375	0x2391FE47
++0x088	-56840089	0xFC9CB067
++0x08C	-2089822684	0x836FD624
++0x090	82134497	0x4E545E1
++0x094	-1133816475	0xBC6B5565
++0x098	-56840089	0xFC9CB067
++0x09C	-2089822684	0x836FD624
++0x0A0	-1581635637	0xA1BA27CB
++0x0A4	-1198675969	0xB88DA7FF
++0x0A8	18000000	0x112A880
++0x0AC	1920554871	0x72795777
++0x0B0	1485714256	0x588E3350
++0x0B4	126	0x7E
++0x0E8	-56840089	0xFC9CB067
++0x0EC	-2089822684	0x836FD624
++0x0F0	-1205541380	0xB824E5FC
++0x0F4	-439815282	0xE5C8F38E
++0x114	2053326179	0x7A634563
++0x118	-56840089	0xFC9CB067
++0x11C	-2089822684	0x836FD624
++0x120	-1333934865	0xB07DC4EF
++0x124	-1450192872	0xA98FD018
++0x128	1084296880	0x40A10EB0
++0x12C	126	0x7E
++0x140	-56840089	0xFC9CB067
++0x144	-2089822684	0x836FD624
++0x148	1022626164	0x3CF40974
++0x14C	1968578186	0x75561E8A
++0x150	-56840089	0xFC9CB067
++0x154	-2089822684	0x836FD624
++0x158	1407894185	0x53EAC2A9
++0x15C	-177989385	0xF56418F7
++0x160	-56840089	0xFC9CB067
++0x164	-2089822684	0x836FD624
++0x168	-1389834524	0xAD28CEE4
++0x16C	-907386996	0xC9EA5F8C
++0x170	-56840089	0xFC9CB067
++0x174	-2089822684	0x836FD624
++0x178	2032066114	0x791EDE42
++0x17C	2087693255	0x7C6FABC7
++0x180	-56840089	0xFC9CB067
++0x184	-2089822684	0x836FD624
++0x188	-1320787905	0xB146603F
++0x18C	-1999698700	0x88CF04F4
++0x190	-56840089	0xFC9CB067
++0x194	-2089822684	0x836FD624
++0x198	1323631674	0x4EE5043A
++0x19C	-1252051394	0xB55F363E
++0x1A0	-56840089	0xFC9CB067
++0x1A4	-2089822684	0x836FD624
++0x1A8	-454642548	0xE4E6B48C
++0x1AC	-2106337571	0x8273D6DD
++0x1B0	-56840089	0xFC9CB067
++0x1B4	-2089822684	0x836FD624
++0x1B8	1748640076	0x683A214C
++0x1BC	531538722	0x1FAEA322
++0x1C0	-56840089	0xFC9CB067
++0x1C4	-2089822684	0x836FD624
++0x1C8	1187305903	0x46C4D9AF
++0x1CC	944194895	0x3847454F
++0x1D0	-56840089	0xFC9CB067
++0x1D4	-2089822684	0x836FD624
++0x1D8	1977255598	0x75DA86AE
++0x1DC	194970974	0xB9F055E
++0x1E0	-56840089	0xFC9CB067
++0x1E4	-2089822684	0x836FD624
++0x1E8	-1852278668	0x91987874
++0x1EC	1700884749	0x6561710D
++0x1F0	-56840089	0xFC9CB067
++0x1F4	-2089822684	0x836FD624
++0x1F8	1128057685	0x433CCB55
++0x1FC	-1504794086	0xA64EAA1A
++0x218	1485714304	0x588E3380
++0x21C	126	0x7E
++0x220	546219200	0x208EA4C0
++0x224	126	0x7E
++0x228	546219232	0x208EA4E0
++0x22C	126	0x7E
++0x230	546219232	0x208EA4E0
++0x234	126	0x7E
++0x238	19	0x13
++0x248	1065353216	0x3F800000
++0x250	-1	0xFFFFFFFF
++0x254	-1	0xFFFFFFFF
++0x258	-1	0xFFFFFFFF
++0x25C	-1	0xFFFFFFFF
++0x280	1084268240	0x40A09ED0
++0x284	126	0x7E
++0x288	1084206080	0x409FAC00
++0x28C	126	0x7E
++0x2A0	1084268288	0x40A09F00
++0x2A4	126	0x7E
++0x2A8	1084206080	0x409FAC00
++0x2AC	126	0x7E
++0x2C0	1084268336	0x40A09F30
++0x2C4	126	0x7E
++0x2C8	1084206080	0x409FAC00
++0x2CC	126	0x7E
++0x2E0	1084268384	0x40A09F60
++0x2E4	126	0x7E
++0x2E8	1084206080	0x409FAC00
++0x2EC	126	0x7E
+
+== dump MetalProd (ไม่แสดงค่า 0) ==
++0x000	1485698104	0x588DF438
++0x004	126	0x7E
++0x008	1078132032	0x4042FD40
++0x00C	126	0x7E
++0x010	-1935981107	0x8C9B45CD
++0x014	1093874688	0x41333400
++0x018	1077910368	0x403F9B60
++0x01C	126	0x7E
++0x020	16	0x10
++0x028	39	0x27
++0x02C	808464432	0x30303030
++0x058	-56840089	0xFC9CB067
++0x05C	-2089822684	0x836FD624
++0x060	616085652	0x24B8B894
++0x064	-1847520745	0x91E11217
++0x068	-56840089	0xFC9CB067
++0x06C	-2089822684	0x836FD624
++0x070	-1625951288	0x9F15F3C8
++0x074	-813940779	0xCF7C3FD5
++0x078	-56840089	0xFC9CB067
++0x07C	-2089822684	0x836FD624
++0x080	1240570937	0x49F19C39
++0x084	-21321411	0xFEBAA93D
++0x088	-56840089	0xFC9CB067
++0x08C	-2089822684	0x836FD624
++0x090	-762793460	0xD288B20C
++0x094	211485482	0xC9B032A
++0x098	-56840089	0xFC9CB067
++0x09C	-2089822684	0x836FD624
++0x0A0	-656472858	0xD8DF04E6
++0x0A4	1693236603	0x64ECBD7B
++0x0A8	60000	0xEA60
++0x0AC	729377143	0x2B796977
++0x0B0	1485714256	0x588E3350
++0x0B4	126	0x7E
++0x0E8	-56840089	0xFC9CB067
++0x0EC	-2089822684	0x836FD624
++0x0F0	-1447613619	0xA9B72B4D
++0x0F4	1208656734	0x480AA35E
++0x114	1698050135	0x65363057
++0x118	-56840089	0xFC9CB067
++0x11C	-2089822684	0x836FD624
++0x120	622886786	0x25207F82
++0x124	-807527202	0xCFDE1CDE
++0x128	-128790224	0xF852D130
++0x12C	126	0x7E
++0x140	-56840089	0xFC9CB067
++0x144	-2089822684	0x836FD624
++0x148	-1988285888	0x897D2A40
++0x14C	-1409975649	0xABF57A9F
++0x150	-56840089	0xFC9CB067
++0x154	-2089822684	0x836FD624
++0x158	-1367073804	0xAE841BF4
++0x15C	-1517430713	0xA58DD847
++0x160	-56840089	0xFC9CB067
++0x164	-2089822684	0x836FD624
++0x168	381509938	0x16BD6132
++0x16C	373584746	0x1644736A
++0x170	-56840089	0xFC9CB067
++0x174	-2089822684	0x836FD624
++0x178	664992698	0x27A2FBBA
++0x17C	-435935785	0xE60425D7
++0x180	-56840089	0xFC9CB067
++0x184	-2089822684	0x836FD624
++0x188	637051695	0x25F8A32F
++0x18C	-1276784329	0xB3E5D137
++0x190	-56840089	0xFC9CB067
++0x194	-2089822684	0x836FD624
++0x198	-481226355	0xE351118D
++0x19C	-969013677	0xC63E0653
++0x1A0	-56840089	0xFC9CB067
++0x1A4	-2089822684	0x836FD624
++0x1A8	680108651	0x2889A26B
++0x1AC	1041884056	0x3E19E398
++0x1B0	-56840089	0xFC9CB067
++0x1B4	-2089822684	0x836FD624
++0x1B8	1221355800	0x48CC6918
++0x1BC	-928275371	0xC8ABA455
++0x1C0	-56840089	0xFC9CB067
++0x1C4	-2089822684	0x836FD624
++0x1C8	675471465	0x2842E069
++0x1CC	570317572	0x21FE5B04
++0x1D0	-56840089	0xFC9CB067
++0x1D4	-2089822684	0x836FD624
++0x1D8	-322924736	0xECC08F40
++0x1DC	-535828327	0xE00FE899
++0x1E0	-56840089	0xFC9CB067
++0x1E4	-2089822684	0x836FD624
++0x1E8	1060680406	0x3F38B2D6
++0x1EC	-1225048353	0xB6FB3EDF
++0x1F0	-56840089	0xFC9CB067
++0x1F4	-2089822684	0x836FD624
++0x1F8	1082737921	0x40894501
++0x1FC	-570410268	0xDE003AE4
++0x218	1485714304	0x588E3380
++0x21C	126	0x7E
++0x220	546218688	0x208EA2C0
++0x224	126	0x7E
++0x228	546218720	0x208EA2E0
++0x22C	126	0x7E
++0x230	546218720	0x208EA2E0
++0x234	126	0x7E
++0x238	1	0x1
++0x244	5000	0x1388
++0x248	1065353216	0x3F800000
++0x250	-1	0xFFFFFFFF
++0x254	-1	0xFFFFFFFF
++0x258	-1	0xFFFFFFFF
++0x25C	-1	0xFFFFFFFF
++0x260	1077910400	0x403F9B80
++0x264	126	0x7E
++0x268	-154966185	0xF6C36757
++0x26C	-676523928	0xD7AD1068
++0x270	-291764793	0xEE9C05C7
++0x274	397901808	0x17B77FF0
++0x278	-1024474275	0xC2EFC35D
++0x27C	1559956808	0x5CFB0D48
++0x280	-460454899	0xE48E040D
++0x284	1073741824	0x40000000
++0x288	-257417086	0xF0A82082
++0x28C	-312288806	0xED62D9DA
++0x290	2033967286	0x793BE0B6
++0x294	-127054537	0xF86D4D37
++0x298	-1725754944	0x992311C0
++0x29C	-2110711069	0x82311AE3
++0x2A0	-2084410514	0x83C26B6E
++0x2A4	1073741824	0x40000000
++0x2A8	-282718123	0xEF261055
++0x2AC	646127828	0x268320D4
++0x2B0	-1302473902	0xB25DD352
++0x2B4	-1598624910	0xA0B6EB72
++0x2B8	513924573	0x1EA1DDDD
++0x2BC	-1477361489	0xA7F140AF
++0x2C0	435208901	0x19F0C2C5
++0x2C4	1073741824	0x40000000
++0x2C8	-2109844247	0x823E54E9
++0x2CC	-1696105881	0x9AE77A67
++0x2D0	-1616844246	0x9FA0EA2A
++0x2D4	227217969	0xD8B1231
++0x2D8	-1449098584	0xA9A082A8
++0x2DC	469972489	0x1C033609
++0x2E0	-770254768	0xD216D850
++0x2E4	1073741824	0x40000000
++0x2E8	-946466942	0xC7960F82
++0x2EC	1854319641	0x6E86AC19
++0x2F0	-315366239	0xED33E4A1
++0x2F4	1848804080	0x6E3282F0
++0x2F8	-585365644	0xDD1C0774
++0x2FC	1564981700	0x5D47B9C4
+
+== dump WoodProd (ไม่แสดงค่า 0) ==
++0x000	1485698104	0x588DF438
++0x004	126	0x7E
++0x008	1078132064	0x4042FD60
++0x00C	126	0x7E
++0x010	-1190452077	0xB90B2493
++0x014	1111703808	0x42434100
++0x018	1077910464	0x403F9BC0
++0x01C	126	0x7E
++0x020	16	0x10
++0x028	39	0x27
++0x02C	808464432	0x30303030
++0x058	-56840089	0xFC9CB067
++0x05C	-2089822684	0x836FD624
++0x060	1867309461	0x6F4CE195
++0x064	69359481	0x4225779
++0x068	-56840089	0xFC9CB067
++0x06C	-2089822684	0x836FD624
++0x070	-1524997773	0xA51A6173
++0x074	-86666695	0xFAD59239
++0x078	-56840089	0xFC9CB067
++0x07C	-2089822684	0x836FD624
++0x080	-1308291788	0xB2050D34
++0x084	95167674	0x5AC24BA
++0x088	-56840089	0xFC9CB067
++0x08C	-2089822684	0x836FD624
++0x090	728390710	0x2B6A5C36
++0x094	558347661	0x2147B58D
++0x098	-56840089	0xFC9CB067
++0x09C	-2089822684	0x836FD624
++0x0A0	-1925709541	0x8D38011B
++0x0A4	-2083982497	0x83C8F35F
++0x0A8	180000	0x2BF20
++0x0AC	1920554871	0x72795777
++0x0B0	1485714256	0x588E3350
++0x0B4	126	0x7E
++0x0E8	-56840089	0xFC9CB067
++0x0EC	-2089822684	0x836FD624
++0x0F0	36270190	0x229706E
++0x0F4	-485171435	0xE314DF15
++0x114	2053326179	0x7A634563
++0x118	-56840089	0xFC9CB067
++0x11C	-2089822684	0x836FD624
++0x120	-807220828	0xCFE2C9A4
++0x124	1635647762	0x617E0112
++0x128	-303983312	0xEDE19530
++0x12C	126	0x7E
++0x140	-56840089	0xFC9CB067
++0x144	-2089822684	0x836FD624
++0x148	-147125519	0xF73B0AF1
++0x14C	-2044896842	0x861D59B6
++0x150	-56840089	0xFC9CB067
++0x154	-2089822684	0x836FD624
++0x158	-1290579160	0xB3135328
++0x15C	-547490002	0xDF5DF72E
++0x160	-56840089	0xFC9CB067
++0x164	-2089822684	0x836FD624
++0x168	-236197442	0xF1EBE9BE
++0x16C	-2146270900	0x8012814C
++0x170	-56840089	0xFC9CB067
++0x174	-2089822684	0x836FD624
++0x178	912608041	0x36654B29
++0x17C	-1487718292	0xA753386C
++0x180	-56840089	0xFC9CB067
++0x184	-2089822684	0x836FD624
++0x188	845585439	0x32669C1F
++0x18C	-1324733533	0xB10A2BA3
++0x190	-56840089	0xFC9CB067
++0x194	-2089822684	0x836FD624
++0x198	769983919	0x2DE505AF
++0x19C	-1917694302	0x8DB24EA2
++0x1A0	-56840089	0xFC9CB067
++0x1A4	-2089822684	0x836FD624
++0x1A8	1973312474	0x759E5BDA
++0x1AC	-471577191	0xE3E44D99
++0x1B0	-56840089	0xFC9CB067
++0x1B4	-2089822684	0x836FD624
++0x1B8	-1230759122	0xB6A41B2E
++0x1BC	-391107157	0xE8B02DAB
++0x1C0	-56840089	0xFC9CB067
++0x1C4	-2089822684	0x836FD624
++0x1C8	-34914782	0xFDEB3E22
++0x1CC	1735423198	0x677074DE
++0x1D0	-56840089	0xFC9CB067
++0x1D4	-2089822684	0x836FD624
++0x1D8	760463342	0x2D53BFEE
++0x1DC	-932578187	0xC869FC75
++0x1E0	-56840089	0xFC9CB067
++0x1E4	-2089822684	0x836FD624
++0x1E8	-1157514536	0xBB01BAD8
++0x1EC	887617160	0x34E7F688
++0x1F0	-56840089	0xFC9CB067
++0x1F4	-2089822684	0x836FD624
++0x1F8	1177230157	0x462B1B4D
++0x1FC	-317207061	0xED17CDEB
++0x218	1485714304	0x588E3380
++0x21C	126	0x7E
++0x220	546218752	0x208EA300
++0x224	126	0x7E
++0x228	546218784	0x208EA320
++0x22C	126	0x7E
++0x230	546218784	0x208EA320
++0x234	126	0x7E
++0x238	2	0x2
++0x248	1065353216	0x3F800000
++0x250	-1	0xFFFFFFFF
++0x254	-1	0xFFFFFFFF
++0x258	-1	0xFFFFFFFF
++0x25C	-1	0xFFFFFFFF
++0x280	600	0x258
++0x288	-298147120	0xEE3AA2D0
++0x28C	126	0x7E
++0x290	-298147288	0xEE3AA228
++0x294	126	0x7E
++0x2D0	50397955	0x3010303
++0x2E0	-303054808	0xEDEFC028
++0x2E4	126	0x7E
++0x2F0	-303084984	0xEDEF4A48
++0x2F4	126	0x7E
++0x2F8	20480	0x5000
+
+== dump CheeseProd (ไม่แสดงค่า 0) ==
++0x000	1485698104	0x588DF438
++0x004	126	0x7E
++0x008	1078145248	0x404330E0
++0x00C	126	0x7E
++0x010	-1062656601	0xC0A925A7
++0x018	1077912704	0x403FA480
++0x01C	126	0x7E
++0x020	16	0x10
++0x028	39	0x27
++0x058	-56840089	0xFC9CB067
++0x05C	-2089822684	0x836FD624
++0x060	1648237663	0x623E1C5F
++0x064	222023036	0xD3BCD7C
++0x068	-56840089	0xFC9CB067
++0x06C	-2089822684	0x836FD624
++0x070	-75816800	0xFB7B20A0
++0x074	-1929959379	0x8CF7282D
++0x078	-56840089	0xFC9CB067
++0x07C	-2089822684	0x836FD624
++0x080	-295062791	0xEE69B2F9
++0x084	1928700831	0x72F5A39F
++0x088	-56840089	0xFC9CB067
++0x08C	-2089822684	0x836FD624
++0x090	1092309493	0x411B51F5
++0x094	-736399128	0xD41B70E8
++0x098	-56840089	0xFC9CB067
++0x09C	-2089822684	0x836FD624
++0x0A0	-571317716	0xDDF2622C
++0x0A4	-786361898	0xD12111D6
++0x0A8	6300000	0x602160
++0x0B0	1485714256	0x588E3350
++0x0B4	126	0x7E
++0x0E8	-56840089	0xFC9CB067
++0x0EC	-2089822684	0x836FD624
++0x0F0	496461596	0x1D97671C
++0x0F4	-1033851697	0xC260ACCF
++0x118	-56840089	0xFC9CB067
++0x11C	-2089822684	0x836FD624
++0x120	-2131689126	0x80F1015A
++0x124	2076179208	0x7BBFFB08
++0x128	554138544	0x21077BB0
++0x12C	126	0x7E
++0x140	-56840089	0xFC9CB067
++0x144	-2089822684	0x836FD624
++0x148	-2031190999	0x86EE7C29
++0x14C	525358393	0x1F505539
++0x150	-56840089	0xFC9CB067
++0x154	-2089822684	0x836FD624
++0x158	-1968760705	0x8AA7187F
++0x15C	2063577051	0x7AFFAFDB
++0x160	-56840089	0xFC9CB067
++0x164	-2089822684	0x836FD624
++0x168	151951553	0x90E98C1
++0x16C	-2026117561	0x873BE647
++0x170	-56840089	0xFC9CB067
++0x174	-2089822684	0x836FD624
++0x178	1711804418	0x66081002
++0x17C	-597573741	0xDC61BF93
++0x180	-56840089	0xFC9CB067
++0x184	-2089822684	0x836FD624
++0x188	415511133	0x18C4325D
++0x18C	179151363	0xAADA203
++0x190	-56840089	0xFC9CB067
++0x194	-2089822684	0x836FD624
++0x198	1000377345	0x3BA08C01
++0x19C	624477047	0x2538C377
++0x1A0	-56840089	0xFC9CB067
++0x1A4	-2089822684	0x836FD624
++0x1A8	-897971296	0xCA7A0BA0
++0x1AC	-569308539	0xDE110A85
++0x1B0	-56840089	0xFC9CB067
++0x1B4	-2089822684	0x836FD624
++0x1B8	669860532	0x27ED42B4
++0x1BC	353552013	0x1512C68D
++0x1C0	-56840089	0xFC9CB067
++0x1C4	-2089822684	0x836FD624
++0x1C8	-1386086343	0xAD620039
++0x1CC	-793607552	0xD0B28280
++0x1D0	-56840089	0xFC9CB067
++0x1D4	-2089822684	0x836FD624
++0x1D8	1796908744	0x6B1AA6C8
++0x1DC	2023385	0x1EDFD9
++0x1E0	-56840089	0xFC9CB067
++0x1E4	-2089822684	0x836FD624
++0x1E8	98781747	0x5E34A33
++0x1EC	-277174174	0xEF7AA862
++0x1F0	-56840089	0xFC9CB067
++0x1F4	-2089822684	0x836FD624
++0x1F8	104254240	0x636CB20
++0x1FC	793074478	0x2F455B2E
++0x200	547766688	0x20A641A0
++0x204	126	0x7E
++0x208	547766736	0x20A641D0
++0x20C	126	0x7E
++0x210	547766736	0x20A641D0
++0x214	126	0x7E
++0x218	1485714304	0x588E3380
++0x21C	126	0x7E
++0x220	546220384	0x208EA960
++0x224	126	0x7E
++0x228	546220416	0x208EA980
++0x22C	126	0x7E
++0x230	546220416	0x208EA980
++0x234	126	0x7E
++0x238	26	0x1A
++0x248	1065353216	0x3F800000
++0x250	-1	0xFFFFFFFF
++0x254	-1	0xFFFFFFFF
++0x258	-1	0xFFFFFFFF
++0x25C	-1	0xFFFFFFFF
++0x280	1485698104	0x588DF438
++0x284	126	0x7E
++0x288	1078145280	0x40433100
++0x28C	126	0x7E
++0x290	2088711266	0x7C7F3462
++0x298	1077912800	0x403FA4E0
++0x29C	126	0x7E
++0x2A0	16	0x10
++0x2A8	39	0x27
++0x2D8	-56840089	0xFC9CB067
++0x2DC	-2089822684	0x836FD624
++0x2E0	-909488846	0xC9CA4D32
++0x2E4	-1664360725	0x9CCBDEEB
++0x2E8	-56840089	0xFC9CB067
++0x2EC	-2089822684	0x836FD624
++0x2F0	-1002724949	0xC43BA1AB
++0x2F4	151038986	0x900AC0A
++0x2F8	-56840089	0xFC9CB067
++0x2FC	-2089822684	0x836FD624
+
